@@ -33,7 +33,7 @@ navigation:
   url: /tags/
 
 # The shortname for your Disqus site to enable comments.
-disqus:
+disqus: the-klog
 
 # Author information - author info at the bottom of the post
 author_name: "Krystof Litomisky"
