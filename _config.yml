@@ -73,3 +73,5 @@ kramdown:
     auto_ids: false
 
 timezone: America/Los_Angeles
+
+post_images_root: http://litomisky.com/klog-jekyll/img/posts

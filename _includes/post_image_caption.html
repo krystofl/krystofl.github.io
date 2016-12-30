@@ -1,0 +1,7 @@
+<figure class="caption">
+    <img src="{{ site.post_images_root }}/{{ include.relative_path }}"
+         alt="{{ include.title }}"/>
+    {% if include.caption %}
+    <figcaption class="caption-text">{{ include.caption }}</figcaption> 
+    {% endif %}
+</figure>
