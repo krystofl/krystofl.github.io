@@ -6,6 +6,7 @@ tags: [Photography, Travel]
 photos_dir: "2016-12-29-PR"
 ---
 
+>
 Lost in humid jungle,<br/>
 Spanish forts watch busy seas:<br/>
 Tropical winter.
