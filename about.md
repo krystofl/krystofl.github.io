@@ -12,4 +12,5 @@ I solve problems.
 I like adventure, engineering, photography, art, dogs,
 and a whole lot of other stuff.
 
-Wanna talk? Get in touch!
+Wanna talk?
+<a href="{{site.url}}/contact/" title="Contact me!">Get in touch!</a>

@@ -31,6 +31,8 @@ navigation:
   url: /about/
 - text: Archives
   url: /tags/
+- text: Contact
+  url: /contact/
 
 # The shortname for your Disqus site to enable comments.
 disqus: the-klog
