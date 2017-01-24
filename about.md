@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Krystof
-description: An optional about page for BlogInn Jekyll theme
+description: About Krystof Litomisky
 banner_image: about-page.jpg
 ---
 
