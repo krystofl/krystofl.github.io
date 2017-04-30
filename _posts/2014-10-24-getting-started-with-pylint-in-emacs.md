@@ -63,4 +63,7 @@ Obviously, which ones to disable is a matter of preference. For now, I've set mi
 
 I've also upped the maximum number of characters allowed per line to 120 characters by `max-line-length=120`.
 
+You can see my entire .pylintrc file
+[on github](https://github.com/krystofl/dotfiles/blob/master/.pylintrc).
+
 And that's it! Emacs should now be a much more powerful python editor for you.
