@@ -65,9 +65,11 @@ change commit message of last commit:
 
 ## Branches
 
-pull a new branch from origin and track it
+pull a branch from a remote ("origin" here) and track it
+(this is tested and works with git 1.7.2.3 and higher)
 
-    git checkout --track -b origin/daves_branch
+    git fetch
+    git checkout branch_name
 
 
 push a new local branch to origin:
