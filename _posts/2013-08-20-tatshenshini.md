@@ -2,7 +2,7 @@
 layout: post
 title: "Rafting Tatshenshini"
 description: ""
-tags: [Photography, Travel]
+tags: [Photography, Travel, Video]
 photos_dir: "2013-08-20-tatshenshini"
 ---
 
