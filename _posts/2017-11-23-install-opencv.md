@@ -14,6 +14,8 @@ Do this:
     cd install-opencv
     ./install_opencv.py
 
+[Here's the github repo for the installation script.](https://github.com/krystofl/install-opencv "Github")
+
 
 ## Why I Wrote This Script and Blog Post
 
