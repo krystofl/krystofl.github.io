@@ -56,16 +56,6 @@ CMAKE_INSTALL_PREFIX is the directory where you want the final output files. I'm
 You can look under the install directory to verify that all the library files were created there.
 
 
-**4. Make sure the libs can be found at runtime**
-
-Finally, you need to make sure that the library files are found at runtime.
-In the spirit of not inventing the wheel, here are the instructions I used
-to set this up:
-<a href="http://gcc.gnu.org/ml/gcc-help/2005-12/msg00017.html"
-   target="_blank">
-   http://gcc.gnu.org/ml/gcc-help/2005-12/msg00017.html
-</a>.
-
 
 ## Create a Simple Test Program
 
@@ -97,11 +87,13 @@ CPP = g++
 
 # OpenCV trunk
 CPPFLAGS = -L/home/krystof/libs/opencv-trunk/release/installed/libs \
-	   -I/home/krystof/libs/opencv-trunk/release/installed/include
+	   -I/home/krystof/libs/opencv-trunk/release/installed/include \
+	   -Wl,-rpath=/home/krystof/libs/opencv-trunk/release/installed/libs
 
 # Opencv 2.4.8
 #CPPFLAGS = -L/home/krystof/libs/opencv-2.4.8/release/installed/libs \
-            -I/home/krystof/libs/opencv-2.4.8/release/installed/include
+            -I/home/krystof/libs/opencv-2.4.8/release/installed/include \
+	    -Wl,-rpath=/home/krystof/libs/opencv-2.4.8/release/installed/libs
 
 all: test
 
@@ -110,7 +102,14 @@ test: main.cpp
 {% endhighlight %}
 
 
-Make sure you adjust the paths in the Makefile to match your own, based on where you installed the different OpenCV versions. Based on which CPPFLAGS line in the Makefile you leave in, you should get one of the following outputs:
+Make sure you adjust the paths in the Makefile to match your own, based on where you installed the different OpenCV versions.
+
+The purpose of the individual flags under CPPFLAGS is as follows:
+- `-L` add this directory to the list of places to look for precompiled libraries (.so files) when linking
+- `-I` add this directory to the list of places to look for headers (files you `#include`)
+- `--Wl,-rpath` specifies the run-time path of the library. This should be the same as the path set by the `-L` flag
+
+Based on which `CPPFLAGS` line in the Makefile you leave in, you should get one of the following outputs when you run the `test` executable you just created:
 
     OpenCV version: 2.4.8
 
@@ -120,4 +119,10 @@ or
 
 3.0.0 is the output from the trunk version here.
 
+If you are having trouble with the linking portion, you may find
+[this post](http://gcc.gnu.org/ml/gcc-help/2005-12/msg00017.html)
+helpful.
+
 So there you go! All you have to do is change one line in a Makefile, and your code gets compiled with different versions of OpenCV!
+
+If you found this post helpful, please let me know by commenting below. Thanks!
