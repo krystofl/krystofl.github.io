@@ -91,7 +91,7 @@ It seems to work fine on Ubuntu 16.04; I haven't tested it on other configuratio
 I can think of a number scenarios for when **not** to use this script:
 - production systems
 - if you need or want virtual environments (not a bad idea)
-- [if you want to run multiple versions of opencv on the same system](http://krystof.litomisky.com/2014/03/09/how-to-have-multiple-versions-of-the-same-library-side-by-side/)
+- [if you want to run multiple versions of opencv on the same system]({{site.url}}/2014/03/09/how-to-have-multiple-versions-of-the-same-library-side-by-side/)
 
 
 ## Final Notes
