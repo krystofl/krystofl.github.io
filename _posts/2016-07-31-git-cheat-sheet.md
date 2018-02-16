@@ -69,7 +69,7 @@ pull a branch from a remote ("origin" here) and track it
 (this is tested and works with git 1.7.2.3 and higher)
 
     git fetch
-    git checkout branch_name
+    git checkout -b branch_name origin/branch_name
 
 
 push a new local branch to origin:
