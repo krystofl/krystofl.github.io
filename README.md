@@ -8,7 +8,7 @@ Install prereqs:
 
 Install jekyll
 
-    sudo gem install jekyll
+    sudo gem install jekyll jekyll-paginate
 
 
 
