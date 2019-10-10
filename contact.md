@@ -6,7 +6,7 @@ banner_image: about-page.jpg
 ---
 
 
-Wanna talk? Use the form below to get in touch!
+Want to talk? Use the form below to get in touch!
 
 
 <form action="https://getsimpleform.com/messages?form_api_token=43fd3c13eb6dc4a4a6b51a12e3f59404"
