@@ -2,7 +2,7 @@
 layout: post
 title: "Alpine Touring"
 description: ""
-tags: [Photography, Travel]
+tags: [Photography, Adventure]
 photos_dir: "2017-01-20-touring"
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Joshua Tree"
 description: ""
-tags: [Photography, Travel]
+tags: [Photography, Travel, Adventure]
 photos_dir: "2017-05-07-joshua-tree"
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Puerto Rico"
 description: ""
-tags: [Photography, Travel]
+tags: [Photography, Travel, Adventure]
 photos_dir: "2016-12-29-PR"
 ---
 
