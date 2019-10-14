@@ -28,7 +28,7 @@ before humans were allowed to touch the controls.
 {% include image_caption.html
    imageurl="http://litomisky.com/klog-jekyll/img/pages/about/FIRST-robotics-900px.jpg"
    title="FIRST Robotics Competition in 2006"
-   caption="" %}
+   caption="FIRST Robotics High School Competition, 2006" %}
 
 I studied computer engineering in college,
 and did some NSF-funded research as an undergrad,
@@ -44,7 +44,7 @@ are some of the projects I worked on during that time.
 After completing an internship in the Communications Ground Systems Section
 of NASA’s Jet Propulsion Laboratory (JPL),
 I had the opportunity to spend some time in the
-Mobility and Robotic Systems Section at JPL.
+[Mobility and Robotic Systems Section at JPL](https://www-robotics.jpl.nasa.gov/index.cfm).
 There I worked on computer vision, primarily for the DARPA-funded ARM-S project
 (for “Autonomous Robotic Manipulation - Software”),
 whose goal was teaching robots to operate autonomously in environments
@@ -53,7 +53,8 @@ Here’s a video of our robot changing a tire:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/scOd9aILwPY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-In 2013, I joined the team at KeyMe still in stealth mode,
+In 2013, I joined the team at
+[KeyMe](https://www.key.me/) still in stealth mode,
 working out of a single windowless room in an incubator in Queens, New York.
 Today, the KeyMe platform is a smart, convenient and secure way to copy keys
 and resolve lockouts using a combination of robotic kiosks and mobile apps
@@ -62,7 +63,8 @@ to the cloud:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IYFFkMYVs8U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-In 2015, I got the opportunity to join Ecogate as the company’s CEO.
+In 2015, I got the opportunity to join [Ecogate](https://www.ecogate.com/)
+as the company’s CEO.
 Ecogate makes intelligent controls for industrial exhaust systems - our
 systems use only 30% the electricity of traditional systems
 while performing better in every way - for technically-savvy clients such as
