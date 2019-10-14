@@ -2,7 +2,7 @@
 layout: post
 title: 30 Days in Indonesia
 description: ""
-tags: [Adventure, Travel, Photography, Video]
+tags: [Adventure, Travel, Photography, Video, Writing]
 photos_dir: "2019-10-11-indonesia"
 banner_image:
 ---
@@ -16,9 +16,6 @@ in Indonesia over 30 days in September 2019.
    filename="Indonesia-collage.jpg"
    title="A collage of photos from Indonesia"
    caption="" %}
-
-
-# Indonesia - The Backstory
 
 Let’s start with a bit of history - I think this is always helpful,
 and puts everything else in context.
@@ -75,7 +72,7 @@ I finally learned to surf - over the course of three days in Bali.
 {% include post_image_full.html
    filename="IMG_2885.JPG"
    title="Krystof surfing in Bali"
-   caption="" %}
+   caption="Krystof learning to surf in Bali" %}
 
 The photo above is from day 2 - during day 3, I was able to catch some
 5-foot waves, feeling like I finally got it...
@@ -120,7 +117,7 @@ I only recognized it as a traditional vegetable dish.
 {% include post_image_full.html
    filename="IMG_20190911_181837.jpg"
    title="Indonesian Street Food Vendor"
-   caption="" %}
+   caption="Street food outside Pura Gunung Kawi temple in Bali" %}
 
 I had a motorcycle rented during my time in Bali, and rode it up to the lava
 fields around Mt Batur. This was a great experience; it felt like entering
@@ -129,7 +126,7 @@ a moonscape:
 {% include post_image_full.html
    filename="IMG_20190909_152635.jpg"
    title="Mt Batur Lava Fields"
-   caption="" %}
+   caption="Mt Batur Lava Fields" %}
 
 Traffic is crazy here. Most of the traffic is scooters, and I would say
 they lanesplit a lot… but really, the lanes are seen mostly as guidelines;
@@ -149,7 +146,7 @@ Similarly, scooters can also double as utility vehicles, and even food trucks:
 {% include post_image_full.html
    filename="IMG_20190908_181741.jpg"
    title="Indonesian Street Food Scooter Cart"
-   caption="" %}
+   caption="The Indonesian version of a food truck" %}
 
 MotoGP is very popular, and especially Valentino Rossi - he's on billboards
 selling Yamaha scooters, and there are lots of scooters around branded in
@@ -191,8 +188,8 @@ friends (note the lack of cutlery):
 
 {% include post_image_full.html
    filename="MVIMG_20190920_192630.jpg"
-   title="Dinner at Happy Buddha Hostel in Yogyakarta"
-   caption="" %}
+   title="Dinner Party at Happy Buddha Hostel in Yogyakarta"
+   caption="Dinner Party at Happy Buddha Hostel in Yogyakarta" %}
 
 After Jogja, I took the train to Surabaya to get ready for a tour of the
 volcanoes Bromo and Ijen.
@@ -218,7 +215,7 @@ to a nearby village to get paid. All the while they need to
 {% include post_image_full.html
    filename="IMG_20190923_044334.jpg"
    title="Ijen Volcano"
-   caption="" %}
+   caption="Ijen Volcano trail" %}
 
 I woke up half an hour after midnight to hike up there to see the "Blue Fire" -
 ignited sulfuric gas, which emerges from cracks in the ground.
@@ -244,7 +241,7 @@ the case even while walking around the back area of the "Eco Resort":
 {% include post_image_caption.html
    filename="IMG_20190923_162828-with-text.jpg"
    title="Burning trash near Indonesian eco resort"
-   caption="" %}
+   caption="Burning trash pile across a narrow creek from the Eco Resort" %}
 
 From there, I headed to Mount Bromo, another volcano on Java, where I again
 woke in the early morning to watch the sunrise:
@@ -252,7 +249,7 @@ woke in the early morning to watch the sunrise:
 {% include post_image_full.html
    filename="IMG_20190925_054047.jpg"
    title="Mt Bromo at sunrise"
-   caption="" %}
+   caption="Bromo Tengger Semeru National Park" %}
 
 The way to get up there is somewhat rugged, and so for the last stretch of
 the journey, everyone takes 4-wheel drives - specifically,
@@ -269,14 +266,14 @@ horse. Not a bad deal!
 {% include post_image_full.html
    filename="MVIMG_20190925_080540.jpg"
    title="Horse on sea of sand near Mount Bromo"
-   caption="" %}
+   caption="Sea of Sand near Mount Bromo" %}
 
 Here’s a photo of Angga, my guide, and myself:
 
 {% include post_image_caption.html
    filename="IMG_20190926_095406.jpg"
    title="Two guys in Java"
-   caption="" %}
+   caption="Angga and Krystof" %}
 
 Angga started learning English so that he could understand the lyrics in Queen
 songs. When he realized that my own knowledge of Queen was good
@@ -309,7 +306,7 @@ none of us wearing helmets:
 {% include post_image_caption.html
    filename="00100dPORTRAIT_00100_BURST20190925135320498_COVER.jpg"
    title="A man and his son on a scooter in Indonesia"
-   caption="" %}
+   caption="These two gave me a ride to the Madakaripura waterfall on the back of their scooter" %}
 
 {% include post_image_caption.html
    filename="MVIMG_20190925_142704.jpg"
@@ -358,7 +355,7 @@ sunrise:
 {% include post_image_full.html
    filename="PANO_20190930_054145.vr.jpg"
    title="Padar Island"
-   caption="" %}
+   caption="Padar Island" %}
 
 We also snorkeled a whole bunch, and this was a great experience.
 I saw manta rays 2-meters across - amazing creatures. I tried to chase
@@ -392,7 +389,7 @@ It was delicious.
 {% include post_image_caption.html
    filename="MVIMG_20191001_195115.jpg"
    title="Stall in Labuan Bajo fish market"
-   caption="" %}
+   caption="Stall in Labuan Bajo fish market" %}
 
 
 
