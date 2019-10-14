@@ -58,7 +58,7 @@ to stay open.
 My good friend from LA, Julian, moved to Bali years ago. The surfing is great,
 the lifestyle is great, and the cost of living is substantially lower than LA…
 so why not? Julian now owns
-[TYGR Sushi](tygrsushi.com/),
+[TYGR Sushi](http://tygrsushi.com/),
 which is a great place, and I strongly recommend you visit it if you’re
 ever in Bali.
 Julian built up the Bali branch of Deus Ex Machina
