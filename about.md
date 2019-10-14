@@ -115,6 +115,10 @@ Morbid the inner strife<br/>
 Welcome the animal thrill<br/>
 Lending a zest to life.
 
+Remember William Wallace: *"Every man dies. Not every man really lives."*
+That zest for life is the difference between living and just passing
+the time until you die.
+
 I think it’s critical to continually push our limits.
 If you do, you will surprise yourself - the limits are almost always way further
 out than you think. If you push out, you will reach them,
