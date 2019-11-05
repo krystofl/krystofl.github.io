@@ -4,7 +4,7 @@ title: 30 Days in Indonesia
 description: ""
 tags: [Adventure, Travel, Photography, Video, Writing]
 photos_dir: "2019-10-11-indonesia"
-banner_image:
+banner_image: IMG_20190918_060146.jpg
 ---
 
 Indonesia is big. Really, really big.
