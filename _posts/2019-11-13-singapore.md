@@ -16,13 +16,13 @@ Singapore airport is a major hub, so I suppose I was bound to end up there soone
 
 According to Malay legend, [Singapore](https://en.wikipedia.org/wiki/Singapore) was founded in the 14th century, though it was apparently mostly destroyed by the Portuguese in the 16th century, sending the island into obscurity for the next two centuries.
 
-That obscurity ended in 1819, when [Sir Stamford Raffles](https://en.wikipedia.org/wiki/Stamford_Raffles), who decided that Britain should replace the Netherlands as the dominant power in the region, and that Singapore was an ideal place to build a new center of trade and influence.
+That obscurity ended in 1819, when [Sir Stamford Raffles](https://en.wikipedia.org/wiki/Stamford_Raffles) decided that Britain should replace the Netherlands as the dominant power in the region, and that Singapore was an ideal place to build a new center of trade and influence.
 
-The British established a new free port in Singapore - meaning any vessel of any nation could come in to trade without tariffs - and the boom began. Singapore attracted immigrants from all over, and grew rapidly. The trade volume went from $400,000 Spanish dollars in 1819 to $22,000,000 by 1824, with the city’s population growing rapidly during this time. The British [resolved their dispute with the Dutch](https://en.wikipedia.org/wiki/Anglo-Dutch_Treaty_of_1824) in 1824, and cemented Singapore as British territory, with Britain giving up influence in modern-day Indonesia.
+The British established a new free port in Singapore - meaning any vessel of any nation could come in to trade without tariffs - and the boom began. Singapore attracted immigrants from all over, and grew rapidly. The trade volume went from $400,000 Spanish dollars in 1819 to $22,000,000 by 1824, with the city’s population growing rapidly during this time. The British [resolved their dispute with the Dutch](https://en.wikipedia.org/wiki/Anglo-Dutch_Treaty_of_1824) in 1824, and cemented Singapore as British territory, with Britain giving up influence in modern-day Indonesia. The city continued to boom and expand on the strength of its trade.
 
 Singapore was occupied by Japan during 1942-1945, and after a brief 2-year union with Malaysia that did not go well became an independent state in 1965.
 
-Since independence, Singapore has rapidly modernized and remains a trade hub, with per capita GDP of some $66,000 (7th in the world - just ahead of the US), and Human Development Index (HDI) of 0.932 (9th in the world). Population is about 6 million, made up ethnic Chinese, Malays, Indians, and others, who all seem to get along fine.
+Since independence, Singapore has rapidly modernized and remains a trade hub, with per capita GDP of some $66,000 (7th in the world - just ahead of the US), with a Gini coefficient of about 46 (indicating medium inequality; about the same as the US) and Human Development Index (HDI) of 0.932 (9th in the world). Population is about 6 million, made up ethnic Chinese, Malays, Indians, and others, who all seem to get along fine.
 
 {% include post_image_caption.html
    filename="IMG_20191103_205302.jpg"
@@ -81,7 +81,7 @@ You could easily spend a whole day walking around the gardens - they are beautif
 # Miscellaneous Characters
 
 - Poh, a Grab driver, is happy living in Singapore. In particular, he is grateful that Singapore is safe and stable, something that he has appreciated more recently in light of what’s going on in Hong Kong.
-- Chua, another Grab driver, had to go to Indiana for work training some yearas back, and was really disappointed a) how quiet it was there after dark (and unsafe - something that came as a surprise for him), and b) that he couldn't find any Chinese restaurants. He likes living in Singapore.
+- Chua, another Grab driver, had to go to Indiana for work training some years back, and was really disappointed a) how quiet it was there after dark (and unsafe - something that came as a surprise for him), and b) that he couldn't find any Chinese restaurants. He likes living in Singapore.
 - Ng, yet another Grab driver, who also likes living in Singapore… but complains that it is expensive to live there. He’s in his 50s and was laid off from work, and has no education credentials, and thus turned to driving for Grab. He doesn’t want to go back to school.
 - Mormon missionaries
 
