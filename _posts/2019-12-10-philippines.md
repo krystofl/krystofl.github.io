@@ -129,18 +129,16 @@ Futher inland are the [Chocolate Hills](https://en.wikipedia.org/wiki/Chocolate_
 
 From Bohol we took a ferry back to Cebu, and then hopped on a plane to the island of Busuanga, where we stayed in the Garden of Eden - an isolated farm in the middle of the island.
 
-TODO: Garden of Eden video
-
 The farm is owned and run by Gunther and Eden. Gunther moved to the island from Germany some 30 years ago - at the time, his plan was to travel Asia until he ran out of money. He ended up starting some businesses in Busuanga and never did run out of money… and so he’s still there. Eden grew up on a farm on another island in the Philippines.
-
-The farm is “sustainable and eco-friendly”. That to Gunther means that no animals live in cages or have leashes, and only the plants that mother nature wants to grow in the Philippines are grown. If something is tough to grow… they don’t grow it. The things that are supposed to grow in the climate grow on their with only minimal care, they say. Much of the food we ate, including all of the fruits and vegetables, as well as the coffee, is from the farm.
-
-There are many animals everywhere, including young ones: a baby horse, a baby goat, lots of piglets, and we watched Boa the Doberman give birth to eight beautiful big healthy puppies.
 
 {% include post_image_full.html
    filename="IMG_20191116_175344-COLLAGE.jpg"
    title="The Garden of Eden on Busuanga"
    caption="The Garden of Eden on Busuanga" %}
+
+The farm is “sustainable and eco-friendly”. That to Gunther means that no animals live in cages or have leashes, and only the plants that mother nature wants to grow in the Philippines are grown. If something is tough to grow… they don’t grow it. The things that are supposed to grow in the climate grow on their with only minimal care, they say. Much of the food we ate, including all of the fruits and vegetables, as well as the coffee, is from the farm.
+
+There are many animals everywhere, including young ones: a baby horse, a baby goat, lots of piglets, and we watched Boa the Doberman give birth to eight beautiful big healthy puppies.
 
 At dusk, everyone gathers around the kitchen, and Eden feeds us all in turn: first the guests, then Gunther, then the various gathered relatives and neighbors, then the cats, then the dogs, then the geese, and only then, once everyone else is full, Eden finally feeds herself. What steel resolve, I thought.
 
@@ -207,7 +205,7 @@ After Sabang we took a van down to Puerto Princessa, a plane back to Cebu City, 
 
 # Jeepneys and Tricycles
 
-Let's talk about jeepneys. The [jeepney](https://en.wikipedia.org/wiki/Jeepney) is a filipino cultural icon. They are buses, and the most popular and ubiquitous means public transportation in the country. Per wikipedia, “[t]hey are known for their crowded seating and kitsch decorations, which have become a wide spread symbol of Philippine culture and art… Jeepneys were originally made from U.S. military jeeps left over from World War II.
+Let's talk about jeepneys. The [jeepney](https://en.wikipedia.org/wiki/Jeepney) is a filipino cultural icon. They are buses, and the most popular and ubiquitous means public transportation in the country. Per wikipedia, “They are known for their crowded seating and kitsch decorations, which have become a wide spread symbol of Philippine culture and art… Jeepneys were originally made from U.S. military jeeps left over from World War II.
 
 {% include post_image_full.html
    filename="MVIMG_20191202_135559.jpg"
@@ -220,13 +218,13 @@ Both of them get filled up to overflowing at rush hour - people standing on smal
 
 The tricycles are old small 125cc bikes that really struggle under the weight. I doubt they can go faster than 25mph. The brakes on the bikes are also woefully insufficient to provide any kind of reasonable stopping power for the weight of the tricycle - the brakes squeal like mad, and the bike slows down only very gingerly. Traffic is very heavy, though, and also moves only gingerly, so generally it seems to work out OK. Each of the tricycles has a verse from the Bible written on the back.
 
-I consider the tricycles a pretty bad solution, though, so here’s an idea: **design a public domain (open-source), extremely cost-effective 4-wheeled vehicle to replace them**. I am thinking something similar to a WWII Jeep - small, versatile, adaptable (give it a 30-second-or-less transition from seats to cargo space), easy to maintain and repair. An easily-removable canvas roof, optional and removable doors, seatbelts, a rear compartment that converts quickly and easily between carrying passengers and carrying cargo.
+I consider the tricycles a pretty bad solution, though, so here’s an idea: **design a public domain (open-source), extremely cost-effective 4-wheeled vehicle to replace them**. I am thinking something similar to a WWII Jeep - small, versatile, adaptable, easy to maintain and repair. An easily-removable canvas roof, optional and removable doors, no side windows, seatbelts, a rear compartment that converts quickly and easily between carrying passengers and carrying cargo.
 
 Making it open source would allow it to be manufactured and maintained anywhere and everywhere there’s a need, creating and supporting local job ecosystems.
 
-It would be vastly safer and more comfortable than the tricycles, provide vastly more utility, and be better for the environment. It wouldn’t need to be high-tech - in fact, it probably shouldn’t be, for simplicity, maintenance, and cost reasons.
+It would be vastly safer and more comfortable than the tricycles, provide vastly more utility, and be better for the environment. It wouldn’t need to be high-tech - in fact, it shouldn’t be, for simplicity, maintenance, and cost reasons.
 
-***Can such a vehicle be designed to cost less than $1,000 each?***
+***How cheaply can such a vehicle be built?***
 
 Please get in touch with me if you have any unique insights into this idea!
 
