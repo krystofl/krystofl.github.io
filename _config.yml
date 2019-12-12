@@ -44,9 +44,9 @@ author_bio: "Krystof is an engineer, adventurer, and all-around good guy. He is 
 author_location: "Los Angeles, California"
 author_image: /images/krystof-headshot.jpg
 
-# Sidebar Add banner
-#banner_url: "https://krystof.litomisky.com"
-#banner_image: images/banner.jpg
+# Sidebar banner
+#banner_url: "https://krystof.litomisky.com/about/"
+banner_image: http://litomisky.com/klog-jekyll/img/krystof-sidebar.jpg
 
 # Sidebar newsletter widget - add your form action url for MailChimp signup form here
 #mailchimp_url: "//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117"
