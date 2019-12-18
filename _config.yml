@@ -9,7 +9,7 @@
 title: "The Klog"
 
 # A description of your site for social meta tag, search engines, and feed.xml
-description: "The Klog - Krystof Litomisky's personal website and blog."
+description: "The Klog - Krystof Litomisky's personal website and blog"
 
 # Tagline near the site title
 tagline: "From Krystof with Love"
@@ -46,7 +46,7 @@ author_image: /images/krystof-headshot.jpg
 
 # Sidebar banner
 #banner_url: "https://krystof.litomisky.com/about/"
-banner_image: http://litomisky.com/klog-jekyll/img/krystof-sidebar.jpg
+banner_image: http://krystof.litomisky.com/klog-assets/images/krystof-sidebar.jpg
 
 # Sidebar newsletter widget - add your form action url for MailChimp signup form here
 #mailchimp_url: "//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117"
@@ -76,4 +76,5 @@ kramdown:
 
 timezone: America/Los_Angeles
 
-post_images_root: http://litomisky.com/klog-jekyll/img/posts
+#post_images_root: http://litomisky.com/klog-jekyll/img/posts
+post_images_root: http://krystof.litomisky.com/klog-assets/images/posts

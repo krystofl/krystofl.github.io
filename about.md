@@ -26,8 +26,8 @@ points autonomously in the beginning of each round,
 before humans were allowed to touch the controls.
 
 {% include image_caption.html
-   imageurl="http://litomisky.com/klog-jekyll/img/pages/about/FIRST-robotics-900px.jpg"
-   title="FIRST Robotics Competition in 2006"
+   imageurl="https://krystof.litomisky.com/klog-assets/images/pages/about/FIRST-robotics-900px.jpg"
+title="FIRST Robotics Competition in 2006"
    caption="FIRST Robotics High School Competition, 2006" %}
 
 I studied computer engineering in college,
@@ -131,7 +131,7 @@ riding motorcycles, martial arts, whitewater rafting, travelling,
 and capturing photos and videos of all of that.
 
 {% include image_caption.html
-   imageurl="http://litomisky.com/klog-jekyll/img/pages/about/adventure-collage-900px.jpg"
+   imageurl="https://krystof.litomisky.com/klog-assets/images/pages/about/adventure-collage-900px.jpg"
    title="A collage of Krystof's adventures"
    caption="" %}
 
