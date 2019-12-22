@@ -72,6 +72,9 @@ IKEA, GlaxoSmithKline, Tesla Motors, and the US Navy.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/J92a8Da8hj0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+In 2019, I decided that it was time to move on, and gradually handed off my day-to-day responsibilities at Ecogate, though I remain involved in an advisory capacity and otherwise help out as needed.
+
+In the meantime, I am looking for the next great thing - let me know if you'd like to talk about that.
 
 
 # Adventurer
@@ -90,7 +93,7 @@ For the entirety of the
 our party did not see another human soul, or even any marks of human activity.
 My concerns during those days were simple:
  - Safely navigate the river
- - Find wood for fire
+ - Find wood for a fire
  - Make shelter
  - Make food
 
@@ -115,7 +118,8 @@ Morbid the inner strife<br/>
 Welcome the animal thrill<br/>
 Lending a zest to life.
 
-Remember William Wallace: *"Every man dies. Not every man really lives."*
+With that in mind, remember William Wallace:
+*"Every man dies. Not every man really lives."*
 That zest for life is the difference between living and just passing
 the time until you die.
 
