@@ -2,7 +2,7 @@
 layout: post
 title: 30 Days in Australia
 description: ""
-tags: [Adventure, Travel, Photography, Video, Writing]
+tags: [Adventure, Travel, Photography, Video]
 photos_dir: "2019-11-04-australia"
 banner_image: IMG_20191028_150759.jpg
 ---

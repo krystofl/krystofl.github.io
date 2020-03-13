@@ -2,7 +2,7 @@
 layout: post
 title: 30 Hours in Singapore
 description: ""
-tags: [Adventure, Travel, Photography, Writing]
+tags: [Adventure, Travel, Photography]
 photos_dir: "2019-11-13-singapore"
 banner_image:
 ---

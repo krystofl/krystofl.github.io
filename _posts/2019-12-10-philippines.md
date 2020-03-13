@@ -2,7 +2,7 @@
 layout: post
 title: 30 Days in The Philippines
 description: ""
-tags: [Adventure, Travel, Photography, Writing]
+tags: [Adventure, Travel, Photography]
 photos_dir: "2019-12-10-philippines"
 banner_image: MVIMG_20191107_135928-COLLAGE-2x3.jpg
 ---
