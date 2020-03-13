@@ -27,13 +27,6 @@ and I’d love to share some photos and a video of the experience.
  frameborder="0" allowfullscreen></iframe>
 
 
-Here are a few photos; there are many more in the
-<a href="https://plus.google.com/photos/102475482399437606317/albums/5914388552143113329"
-   target="_blank" title="Google+ photo album">
-   Google+ gallery here.
-</a>
-
-
 <!--more-->
 <br/>
 
@@ -98,9 +91,3 @@ Here are a few photos; there are many more in the
 
 
 All in all, it was a really wonderful adventure.
-
-
-<a href="https://plus.google.com/photos/102475482399437606317/albums/5914388552143113329"
-   target="_blank" title="Google+ photo album">
-   Here's a link to my Google+ gallery with more photos.
-</a>
