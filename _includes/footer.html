@@ -25,6 +25,9 @@
 	    {% if site.twitter_username %}
             <a href="https://twitter.com/{{ site.twitter_username }}" class="fa-twitter square fill-horizontal"><span class="screen-reader-text">Twitter</span></a>
             {% endif %}
+            {% if site.youtube_url %}
+            <a href="{{ site.youtube_url }}" class="fa-youtube-play square fill-horizontal"><span class="screen-reader-text">YouTube</span></a>
+            {% endif %}
             {% if site.pinterest_username %}
             <a href="http://www.pinterest.com/{{ site.pinterest_username }}" class="fa-pinterest-p square fill-horizontal"><span class="screen-reader-text">Pinterest</span></a>
             {% endif %}
