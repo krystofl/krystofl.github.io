@@ -1,8 +1,8 @@
 <footer class="site-footer">
     <div class="inner">
         <div class="social-links">
-            {% if site.twitter_username %}
-            <a href="https://twitter.com/{{ site.twitter_username }}" class="fa-twitter square fill-horizontal"><span class="screen-reader-text">Twitter</span></a>
+            {% if site.linkedin_username %}
+            <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" class="fa-linkedin square fill-horizontal"><span class="screen-reader-text">LinkedIn</span></a>
             {% endif %}
             {% if site.facebook_username %}
             <a href="https://www.facebook.com/{{ site.facebook_username }}" class="fa-facebook square fill-horizontal"><span class="screen-reader-text">Facebook</span></a>
@@ -22,11 +22,11 @@
             {% if site.instagram_username %}
             <a href="http://instagram.com/{{ site.instagram_username }}" class="fa-instagram square fill-horizontal"><span class="screen-reader-text">Instagram</span></a>
             {% endif %}
+	    {% if site.twitter_username %}
+            <a href="https://twitter.com/{{ site.twitter_username }}" class="fa-twitter square fill-horizontal"><span class="screen-reader-text">Twitter</span></a>
+            {% endif %}
             {% if site.pinterest_username %}
             <a href="http://www.pinterest.com/{{ site.pinterest_username }}" class="fa-pinterest-p square fill-horizontal"><span class="screen-reader-text">Pinterest</span></a>
-            {% endif %}
-            {% if site.linkedin_username %}
-            <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" class="fa-linkedin square fill-horizontal"><span class="screen-reader-text">LinkedIn</span></a>
             {% endif %}
             {% if site.weibo_username %}
             <a href="http://weibo.com/{{ site.weibo_username }}" class="fa-weibo square fill-horizontal"><span class="screen-reader-text">Weibo</span></a>
