@@ -109,7 +109,14 @@ pre {
     overflow: auto;
 }
 
-code,
+code {
+    font-family: monospace, serif;
+    font-size: 0.9em;
+    word-wrap: normal;
+    overflow-x: auto;
+    white-space: pre;
+}
+
 kbd,
 pre,
 samp {
