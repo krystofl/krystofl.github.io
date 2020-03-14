@@ -7,6 +7,13 @@ banner_image: about-page.jpg
 
 Hi, I’m Krystof - engineer, adventurer, and all-around good guy.
 
+You can also find me on
+[LinkedIn](https://www.linkedin.com/in/{{ site.linkedin_username }}),
+[GitHub](https://github.com/{{ site.github_username }}),
+[Instagram](http://instagram.com/{{ site.instagram_username }}),
+[Twitter](https://twitter.com/{{ site.twitter_username }}), or
+[YouTube]({{site.youtube_url}}).
+
 
 # Engineer
 
