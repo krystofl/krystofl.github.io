@@ -29,6 +29,8 @@ navigation:
   url: /
 - text: About
   url: /about/
+- text: Best Of
+  url: /best_of/
 - text: Archives
   url: /tags/
 - text: Contact
