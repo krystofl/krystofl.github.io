@@ -5,6 +5,20 @@
         <p><a href="{{ site.base_url }}/about"><img src="{{ site.banner_image }}" alt="Krystof" /></a></p>
         <h2 class="widget-title">About {{ site.author_name }}</h2>
         <p>{{ site.author_bio }}</p>
+
+	{% if site.linkedin_username %}
+	<a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" class="fa-linkedin square fill-horizontal"><span class="screen-reader-text">LinkedIn</span></a>
+	{% endif %}
+	{% if site.github_username %}
+	<a href="https://github.com/{{ site.github_username }}" class="fa-github-alt square fill-horizontal"><span class="screen-reader-text">GitHub</span></a>
+	{% endif %}
+	{% if site.instagram_username %}
+	<a href="http://instagram.com/{{ site.instagram_username }}" class="fa-instagram square fill-horizontal"><span class="screen-reader-text">Instagram</span></a>
+	{% endif %}
+        {% if site.twitter_username %}
+        <a href="https://twitter.com/{{ site.twitter_username }}" class="fa-twitter square fill-horizontal"><span class="screen-reader-text">Twitter</span></a>
+        {% endif %}
+
     </section><!-- .widget-text -->
     {% endif %}
 
