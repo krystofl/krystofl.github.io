@@ -17,9 +17,7 @@ So here they are! Keep in mind that this is just a quick
 (and intentionally incomplete) cheat sheet –
 if you are learning git for the first time,
 you’re better off looking elsewhere
-(<a href="https://try.github.io/levels/1/challenges/1"
-    target="_blank"
-    title="Git tutorial">this is a good place to start</a>).
+[this is a good place to start](https://try.github.io/levels/1/challenges/1).
 
 
 <!--more-->
@@ -65,10 +63,15 @@ change commit message of last commit:
 
 ## Branches
 
-pull a branch from a remote ("origin" here) and track it
+See all branches, including remote branches:
+
+    git branch -a
+
+
+Pull a branch from a remote ("origin" here) and track it
 (this is tested and works with git 1.7.2.3 and higher)
 
-    git fetch
+    git fetch --all
     git checkout -b branch_name origin/branch_name
 
 
