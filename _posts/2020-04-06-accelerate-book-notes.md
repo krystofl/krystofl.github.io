@@ -31,11 +31,15 @@ productivity, and market share", as well as "on customer
 satisfaction, efficiency, and the ability to achieve organizational goals."
 
 
+
 # Continuous Delivery
 
 #### 1. Use version control for all production artifacts
 **All production artifacts** - that means not just code (which is the bare minimum),
 but also system and application configurations, and scripts for build automation.
+
+<!--more-->
+
 #### 2. Automate your deployment process
 #### 3. Implement continuous integration
 #### 4. Use trunk-based development models
