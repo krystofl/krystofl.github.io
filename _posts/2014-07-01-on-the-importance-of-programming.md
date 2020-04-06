@@ -2,7 +2,7 @@
 layout: post
 title: "On the Importance of Programming"
 description: ""
-tags: [Programming, Opinion]
+tags: [Software, Opinion]
 ---
 
 *This essay was originally published in

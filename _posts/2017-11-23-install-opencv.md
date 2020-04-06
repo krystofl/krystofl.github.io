@@ -2,7 +2,7 @@
 layout: post
 title: "An Easy-To-Use Script to Install OpenCV for C++ and Python"
 description: "An Easy-To-Use Script to Install OpenCV for C++ and Python"
-tags: [Programming, Linux, OpenCV]
+tags: [Software, Linux, OpenCV]
 ---
 
 Here to find an easy way to install OpenCV,

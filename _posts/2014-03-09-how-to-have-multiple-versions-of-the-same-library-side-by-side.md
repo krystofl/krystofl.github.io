@@ -2,7 +2,7 @@
 layout: post
 title: "How to Have Multiple Versions of C++ OpenCV Side by Side"
 description: ""
-tags: [Linux, C++, OpenCV, Programming]
+tags: [Linux, C++, OpenCV, Software]
 ---
 
 *This post was originally published on
@@ -13,7 +13,7 @@ tags: [Linux, C++, OpenCV, Programming]
 
 This tutorial will show you how you can have different versions of the same library side by side such that it's easy to change which version your code uses.
 
-For example, I work a lot with OpenCV, the computer vision library. I like to be able to try out different features in the trunk version of the library, but prefer to use a stable release in production settings. It's actually pretty easy to have both versions on your computer, and select which one you'd like to use at compile time. 
+For example, I work a lot with OpenCV, the computer vision library. I like to be able to try out different features in the trunk version of the library, but prefer to use a stable release in production settings. It's actually pretty easy to have both versions on your computer, and select which one you'd like to use at compile time.
 
 The following assumes you're on a Linux machine. I'll use OpenCV as an example, but the concept applies to any library.
 
@@ -44,7 +44,7 @@ I'll put mine under ~/libs/opencv-trunk/release/installed
 
 **2. Tell CMake your compilation options**
 
-    cmake -DCMAKE_INSTALL_PREFIX=/home/krystof/libs/opencv-trunk/release/installed -DCMAKE_BUILD_TYPE="Release" .. 
+    cmake -DCMAKE_INSTALL_PREFIX=/home/krystof/libs/opencv-trunk/release/installed -DCMAKE_BUILD_TYPE="Release" ..
 
 CMAKE_INSTALL_PREFIX is the directory where you want the final output files. I'm also telling CMake to compile the Release (optimized) version of the library; you might (and I do) want to have Release and Debug versions available.
 
@@ -72,7 +72,7 @@ main.cpp:
 int main(int argc, char ** argv)
 {
   std::cout << "OpenCV version: "
-            << CV_MAJOR_VERSION << "." 
+            << CV_MAJOR_VERSION << "."
             << CV_MINOR_VERSION << "."
             << CV_SUBMINOR_VERSION
             << std::endl;

@@ -2,7 +2,7 @@
 layout: post
 title: "Why You Should Use Class Enums in C++"
 description: ""
-tags: [C++, Programming]
+tags: [C++, Software]
 ---
 
 *This post was originally published on

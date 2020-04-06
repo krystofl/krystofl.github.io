@@ -2,7 +2,7 @@
 layout: post
 title: "Git Cheat Sheet"
 description: ""
-tags: [Programming]
+tags: [Software]
 ---
 
 

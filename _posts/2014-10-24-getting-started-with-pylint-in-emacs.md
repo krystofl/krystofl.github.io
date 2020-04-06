@@ -2,7 +2,7 @@
 layout: post
 title: "Getting Started With Flycheck + Pylint in emacs"
 description: ""
-tags: [Python, Emacs, Linux, Programming]
+tags: [Python, Emacs, Linux, Software]
 ---
 
 *This post was originally published on
@@ -35,7 +35,7 @@ Installing pylint is easy on Ubuntu:
 Installing Flycheck should also be easy through emacs' package manager. For my setup with MELPA, I can see all the available packages by doing
 
     M-x package-install RET flycheck
-    
+
 inside emacs. The final step is to enable Flycheck. You can either do it for the current buffer (`M-x flycheck-mode`), for the current emacs session (`M-x global-flycheck-mode`), or permanently enable it globally by adding the following line to your .emacs file:
 
     (add-hook 'after-init-hook #'global-flycheck-mode)
