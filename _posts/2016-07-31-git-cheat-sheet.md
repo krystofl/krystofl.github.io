@@ -155,3 +155,7 @@ To make the submodule track a the master branch:
 open .gitmodules, and add a line to the submodule info:
 
     branch = master
+
+Remove a submodule:
+
+    git rm path/to/submodule
