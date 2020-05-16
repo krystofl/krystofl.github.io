@@ -156,6 +156,9 @@ open .gitmodules, and add a line to the submodule info:
 
     branch = master
 
-Remove a submodule:
+Remove a submodule (works most of the time):
 
     git rm path/to/submodule
+
+If the above doesn't work, see
+[this StackOverflow answer](https://stackoverflow.com/a/1260982).
