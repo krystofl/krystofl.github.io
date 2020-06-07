@@ -24,6 +24,8 @@ Most new good ideas come from taking other good ideas and recombining them in no
 
 Think of the status quo in a specific area like a room with four doors. The adjacent possible are the rooms immediately next to this room. Each time one door is opened, the adjacent possible expands - opening one door leads to three more doors that can be opened next.
 
+<!--more-->
+
 There is such a thing as being too early - one great example being Charles Babbage’s Analytical Engine. It leaped ahead of the adjacent possible, and that’s not always a good thing - it wasn’t actually feasible to build his engine in his time. His core idea wouldn’t actually be built until the vacuum tube was created many decades later.
 
 The key to making breakthroughs is to increase the pile of things and ideas and tools that are available to be recombined in novel ways.
