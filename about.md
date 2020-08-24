@@ -7,6 +7,8 @@ banner_image: about-page.jpg
 
 Hi, I’m Krystof - engineer, adventurer, and all-around good guy.
 
+I’m a business leader and software engineer working primarily in intelligent systems that make the world a better place. My most recent job was CEO at Ecogate, an Inc. 5000 company.
+
 You can also find me on
 [LinkedIn](https://www.linkedin.com/in/{{ site.linkedin_username }}),
 [GitHub](https://github.com/{{ site.github_username }}),
@@ -61,7 +63,7 @@ Here’s a video of our robot changing a tire:
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/scOd9aILwPY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In 2013, I joined the team at
-[KeyMe](https://www.key.me/) still in stealth mode,
+[KeyMe](https://www.key.me/) in stealth mode,
 working out of a single windowless room in an incubator in Queens, New York.
 Today, the KeyMe platform is a smart, convenient and secure way to copy keys
 and resolve lockouts using a combination of robotic kiosks and mobile apps
@@ -75,13 +77,20 @@ as the company’s CEO.
 Ecogate makes intelligent controls for industrial exhaust systems - our
 systems use only 30% the electricity of traditional systems
 while performing better in every way - for technically-savvy clients such as
-IKEA, GlaxoSmithKline, Tesla Motors, and the US Navy.
+Andersen Windows & Doors, GlaxoSmithKline, Tesla Motors, and the US Navy.
+
+In 2020, Ecogate made the Inc. 5000 list of the fastest-growing private companies in the United States! This is for growth during 2016-2019, and I’m super proud of the team at Ecogate for making it happen.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/J92a8Da8hj0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+I see engineering as more of a mindset than a job: it’s a way of systematically solving problems by breaking them down and applying a rigorous understanding of how the world works with a generous helping of creativity.
+
+These skills are helpful even in scenarios that don’t at first look like engineering problems, like running a business or [breaking out of a hotel bathroom](https://krystof.litomisky.com/2019/12/24/trapped/) (these things happen).
 
 In 2019, I decided that it was time to move on, and gradually handed off my day-to-day responsibilities at Ecogate, though I remain involved in an advisory capacity and otherwise help out as needed.
 
 In the meantime, I am looking for the next great thing - let me know if you'd like to talk about that.
+
 
 
 # Adventurer
@@ -160,11 +169,7 @@ keep their eyes open, find a door, and step boldly through.
 
 # All-Around Good Guy
 
-What does it mean to be an all-around good guy?
-
-In college and grad school, I trained in Shotokan Karate.
-To train in karate, one must know and follow the *dojo kun* -
-the rules and principles that frame the practice within an ethical context.
+I've trained in several martial arts, and as any practitioner will tell you, martial arts are as much about the mind as the body. Each style comes with a set of rules and principles that frame the practice within an ethical context. For Shotokan Karate, these are the *[dojo kun](https://iskf.com/dojo-kun/)*:
 
 <center>
 {% include image_caption.html
@@ -173,7 +178,7 @@ the rules and principles that frame the practice within an ethical context.
    caption="Shotokan Karate Dojo Kun. Source: iskf.com/dojo-kun" %}
 </center>
 
-They can be translated as:
+They can be concisely translated as:
  - Seek perfection of character
  - Be faithful
  - Endeavor
@@ -181,36 +186,25 @@ They can be translated as:
  - Refrain from violent behavior
 
 Together, these form a solid ethical foundation for one’s life.
-The first one in particular always seemed important to me:
+The first one always stood out to me:
 *to seek perfection of character*. In fact, Gichin Funakoshi,
-the founder of Shotokan Karate, wrote that,
+the founder of Shotokan Karate,
+[wrote that](https://en.wikipedia.org/wiki/Shotokan#Philosophy)
 "The ultimate aim of Karate lies not in victory or defeat,
 but in the perfection of the character of the participant."
-[source](https://en.wikipedia.org/wiki/Shotokan#Philosophy)
+
+The principle is to *seek* perfection of character.
+The implication is that there is no true perfection of character, that true perfection is an unattainable ideal.
+But that does not mean that we should not seek perfection - the act of seeking perfection is valuable in and of itself.
 
 What does it mean to seek perfection of character?
 
-I think that ultimately this is for each one of us to define for ourselves.
+I think it starts with identifying the things that matter - the things you care about. If you don’t know where you’re going, how can you hope to get there?
 
-The principle is to *seek* perfection of character.
-The implication (and the reality most of us experience)
-is that there is no true perfection of character;
-true perfection is an unattainable ideal.
-However, that does not mean that we should not seek perfection;
-in fact, the act of seeking perfection is valuable.
+My favorite tool for making that goal explicit is writing a mission statement as described in Stephen Covey’s [The 7 Habits of Highly Effective People](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People), among others.
 
-What does that mean in practice?
-Along with the other rules of *dojo kun*,
-I think it means to listen carefully, to think deeply,
-to reflect, to be slow to judgement, to show empathy,
-to deliberately work on meaningful things,
-to deliberately work on improving oneself,
-and to strive to make the world a better place.
+So what’s mine? I have a page-long mission statement of guiding principles… and I have decided not to share it. The quest for perfection of character is deeply personal, and my understanding of what perfection looks like continues to evolve as I grow.
 
-Happy seeking!
+In any case, words are cheap - it’s actions that ultimately matter. And so the standard that I ask you to hold me accountable to is as ambitious as it is vague: to be an all-around good guy.
 
-You can find more info about the Shotokan dojo kun
-[here](https://iskf.com/dojo-kun/).
-
-If you’d like to get in touch with me, you can use the
-<a href="{{site.url}}/contact/" title="Contact Krystof">contact page</a>.
+[Contact Krystof]({{site.url}}/contact/)
