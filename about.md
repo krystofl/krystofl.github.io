@@ -54,8 +54,8 @@ After completing an internship in the Communications Ground Systems Section
 of NASA’s Jet Propulsion Laboratory (JPL),
 I had the opportunity to spend some time in the
 [Mobility and Robotic Systems Section at JPL](https://www-robotics.jpl.nasa.gov/index.cfm).
-There I worked on computer vision, primarily for the DARPA-funded ARM-S project
-(for “Autonomous Robotic Manipulation - Software”),
+There I worked on computer vision, primarily for the DARPA-funded ARM project
+(for “Autonomous Robotic Manipulation”),
 whose goal was teaching robots to operate autonomously in environments
 designed for humans, including using human tools.
 Here’s a video of our robot changing a tire:
