@@ -7,7 +7,7 @@ banner_image: about-page.jpg
 
 Hi, I’m Krystof - engineer, adventurer, and all-around good guy.
 
-I’m a business leader and software engineer working primarily in intelligent systems that make the world a better place. My most recent job was CEO at Ecogate, an Inc. 5000 company.
+I’m a business leader and software engineer working primarily in intelligent systems that make the world a better place. My most recent job was CEO at [Ecogate](https://www.ecogate.com/).
 
 You can also find me on
 [LinkedIn](https://www.linkedin.com/in/{{ site.linkedin_username }}),
