@@ -6,12 +6,13 @@ tags: [Software, Linux]
 ---
 
 [mkosi](http://0pointer.net/blog/mkosi-a-tool-for-generating-os-images.html)
-is a great tool from systemd to programmatically create reproducible images of operating systems. This has a lot of applications in IoT, security, automated testing, managing servers etc. I like it a lot.
+is a great tool to programmatically create reproducible images of operating systems. This has a lot of applications in IoT, security, automated testing, managing servers etc. I like it a lot.
 
-mkosi can make images of Fedora, Debian, Ubuntu, ArchLinux, and OpenSuse.  There are some differences between those distributions, though, and probably because of that some things are supposed to work... don't, for some distros.
+mkosi can make images of Fedora, Debian, Ubuntu, ArchLinux, and OpenSuse. There are some differences between those distributions, though, and probably because of that some things are supposed to work... don't, for some distros.
 
-This post is about the quirks of making Ubuntu images with mkosi. In some cases, the documentation for how to make mkosi do something for an Ubuntu images is just plain wrong (presumably it works for other distros). In other cases, I had a hard time finding information. Hopefully this post helps you to get mkosi working for Ubuntu images in less time than it took me.
+This post is about the quirks of making Ubuntu images with mkosi. In some cases, the documentation for how to make mkosi do something for an Ubuntu images is just plain wrong (though presumably it works for other distros). In other cases, I had a hard time finding information. Hopefully this post helps you to get mkosi working for Ubuntu images in less time than it took me.
 
+<!--more-->
 
 
 # mkosi - A Very Brief Introduction
@@ -109,7 +110,7 @@ There is a caveat here: by doing this, your images will not be strictly the same
 
 If you want to install packages that are not in the default Ubuntu package repositories, unfortunately the `Repositories=` flag will NOT work as specified in the documentation. The flag expects a URL... and Ubuntu packages don't quite work that way.
 
-The easiest way I've found to accomplish this is to again use`mkosi.postinst`.
+The easiest way I've found to accomplish this is to again use `mkosi.postinst`.
 
 For example, here's how to install Docker, using
 [the official instructions](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository):
