@@ -2,7 +2,7 @@
 layout: post
 title: "Contact Managers Suck: The Micelf Whitepaper"
 description: "Contact apps haven't changed since smartphones came out more than ten years ago. It's time to give them a makeover"
-tags: [Photography]
+tags: [Opinion, Software]
 photos_dir: "2020-10-05-contact-managers-suck-micelf-whitepaper"
 banner_image: "relationship-management-features.png"
 ---
