@@ -51,8 +51,7 @@ author_image: /images/krystof-headshot.jpg
 banner_image: https://krystof.litomisky.com/klog-assets/images/krystof-sidebar.jpg
 
 # Sidebar newsletter widget - add your form action url for MailChimp signup form here
-#mailchimp_url: "//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117"
-#mailchimp_url: "404.html"
+mailchimp_url: "https://litomisky.us7.list-manage.com/subscribe/post?u=16ce75c2d58c4c14918cd7283&amp;id=d1cae2e1a1"
 
 # Social links in the site footer
 twitter_username: "theKrystof"
