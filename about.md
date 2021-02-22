@@ -85,11 +85,14 @@ In 2020, Ecogate made the Inc. 5000 list of the fastest-growing private companie
 
 I see engineering as more of a mindset than a job: it’s a way of systematically solving problems by breaking them down and applying a rigorous understanding of how the world works with a generous helping of creativity.
 
-These skills are helpful even in scenarios that don’t at first look like engineering problems, like running a business or [breaking out of a hotel bathroom](https://krystof.litomisky.com/2019/12/24/trapped/) (these things happen).
+These skills are helpful even in scenarios that don’t at first look like engineering problems, like running a business or breaking out of a locked hotel bathroom ([these things happen](https://krystof.litomisky.com/2019/12/24/trapped/)).
 
 In 2019, I decided that it was time to move on, and gradually handed off my day-to-day responsibilities at Ecogate, though I remain involved in an advisory capacity and otherwise help out as needed.
 
-In the meantime, I am looking for the next great thing - let me know if you'd like to talk about that.
+I also make robots do useful things at [Wavemaker Labs](https://www.wavemakerlabs.com/).
+
+First and foremost, though, I am always thinking about building a better future -
+let me know if you're ready to build something great!
 
 
 
