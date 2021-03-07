@@ -24,3 +24,6 @@ In fact, there's a [lot of demos similar to mine online](https://www.youtube.com
 Why hasn't someone built a production version of it? I don't buy the argument that it's a matter of technology anymore. Is it a matter of there not being enough money to be made here? Is it just not considered important enough?
 
 Please ping me if you know any companies building ASL-recognition from video into a commercial product - or if you're thinking about starting one!
+
+*UPDATE: The Economist has published a good overview of the
+"[race to teach sign language to computers](https://www.economist.com/science-and-technology/2021/03/06/the-race-to-teach-sign-language-to-computers)" (paywall). The article cites data collection and annotation as a major issue, as well as some technological challenges, including capturing people's facial expressions (I'm calling BS on that - take another look at the video above to see why). On the bright side, there are a number of teams working on the problem... but on the darker side, none of those seem to be at one of the software giants.*
