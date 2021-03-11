@@ -150,11 +150,15 @@ Add a git repo as a submodule:
     git submodule add https://github.com/krystofl/krystof-utils.git
 
 
-To make the submodule track a the master branch:
-
-open .gitmodules, and add a line to the submodule info:
+To make the submodule track a the master branch: open `.gitmodules`, and add a line to the submodule info:
 
     branch = master
+
+
+Move a submodule:
+
+    git mv path/to/old/submod path/to/new/submod
+
 
 Remove a submodule (works most of the time):
 
