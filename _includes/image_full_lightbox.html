@@ -1,0 +1,11 @@
+<figure class="full-width caption">
+    <a href="{{ include.imageurl }}"
+       data-lightbox="main-lightbox"
+       data-title="{{ include.caption }}">
+       <img src="{{ include.imageurl }}"
+            alt="{{ include.title }}"/>
+    </a>
+    {% if include.caption %}
+    <figcaption class="caption-text">{{ include.caption }}</figcaption>
+    {% endif %}
+</figure>
