@@ -7,7 +7,7 @@ photos_dir: "2022-01-17-inca-trail-to-machu-picchu"
 banner_image: 20211226-224112-peru-KXL08423-Pano-Edit.jpg
 ---
 
-This is a post some twenty years in the making. So many of us, I think, have seen a photo of Machu Picchu and thought, "Wow! I wanna go there." I know I did, and for a couple of decades I've let that sit on my bucket list. Well this December I finally went there - and after so many years of building great expectations, the journey exceeded them. Let me tell you about it.
+This is a post some twenty years in the making. So many of us, I think, have seen a photo of Machu Picchu and thought, "Wow! I wanna go there." I know I did, and for a couple of decades I let that sit on my bucket list. Well this December I finally went there - and after so many years of building great expectations, the journey exceeded them. Let me tell you about it.
 
 
 # Day 1: Into the Wild
@@ -53,7 +53,10 @@ I was overcome with great joy here - walking almost alone through these Inca rui
 
 "Atavism" came to mind, both the word and the John Myers O'Hara poem.
 
-TODO: another photo of Llactapata here?
+{% include post_image_full_lightbox.html
+   filename="20211224-012339-peru-KXL07782.jpg"
+   title="Llactapata"
+   caption="Llactapata" %}
 
 What a beautiful world.
 
@@ -110,7 +113,7 @@ The view from the top, after hours of struggle compounded by altitude, was amazi
    title="The view from Dead Woman's Pass"
    caption="The view from Dead Woman's Pass" %}
 
- I will admit to wishing that my "water-resistant" gloves were, in fact, "water-proof". That's a lesson learned.
+ I will admit to wishing that my "water-resistant" gloves were instead "water-proof". That's a lesson learned.
 
 {% include post_image_full_lightbox.html
    filename="20211224-232202-peru-KXL07942.jpg"
@@ -155,7 +158,7 @@ Sayacmarka is an ancient fort that watched the western access path to the mounta
   title="Climbing to the fortress in the clouds"
   caption="Climbing to the fortress in the clouds" %}
 
-Walking through Sayacmarka was one of my favorite parts of the trip. Our group of nine was alone up there, the weather was changing quickly, and the fort stood solemn watch just as it had for centuries. I think in this way in particular the trip exceeded my expectations - I truly loved wandering its ancient corridors alone.
+Walking through Sayacmarka was one of my favorite parts of the trip. Our group of nine was alone up there, the weather was changing quickly, and the fort stood solemn watch just as it had for centuries. I think in this way in particular the trip exceeded my expectations - I truly loved wandering these ancient corridors alone.
 
 {% include post_image_full_lightbox.html
    filename="20211225-062445-peru-KXL08079.jpg"
@@ -168,7 +171,7 @@ Walking through Sayacmarka was one of my favorite parts of the trip. Our group o
   title="Sayacmarka"
   caption="Sayacmarka" %}
 
-Porters not only carried tents (and just about everything else), but they also set them up for us. They left in the morning after us, passed us, cooked us an outstanding lunch, left the lunch spot after us, passed us again, and then welcomed us to a campsite already setup, including our tents. This is what princes must feel like.
+Porters not only carried our tents (and just about everything else), but they also set them up for us. They left in the morning after us, passed us, cooked us an outstanding lunch, left the lunch spot after us, passed us again, and then welcomed us to a campsite already setup, including our tents. This is what princes must feel like.
 
 {% include post_image_full_lightbox.html
    filename="20211225-073103-peru-KXL08081.jpg"
@@ -192,14 +195,14 @@ We celebrated Christmas on the morning of the third day to a beautiful view.
 
 Many of the porters' Spanish was no better than mine - they are people from the local mountains, and their native tongue is Qechua.
 
-Much of the day they'd be sucking on coca leaves for that extra burst of energy, resilience, to help with altitude sickness, for good vibes and general good health. We tried this also, but I found the tacticle feel of the experience - a bunch of dry leaves shoved in the corner of my mouth - not altogether pleasant. Coca tea, though, I loved, and drank every morning. If it were available in the US I would probably drink it regularly.
+Much of the day they'd be sucking on coca leaves for that extra burst of energy, resilience, to help with altitude sickness, for good vibes and general good health. We tried this also, but I found the tacticle feel of the experience - a bunch of dry leaves shoved in the corner of my mouth - not altogether pleasant. Coca tea, though, I loved and drank every morning. If it were available in the US I would probably drink it regularly.
 
 {% include post_image_full_lightbox.html
    filename="20211225-225945-peru-KXL08201-Pano-Edit.jpg"
    title="The view from Phuyupatamarca, with Intipata in the distance"
    caption="The view from Phuyupatamarca, with Intipata in the distance" %}
 
-On the third day we had a flat hike to Phuyupatamarca, followed by a long steep descent to Intipata. The locations of the outposts reminded me of the [scene from the Lord of the Rings where Gondor calls to Rohan for aid with a sequence of bonfires over the mountains](https://www.youtube.com/watch?v=GDYQ3PJKrT8)... see Intipata cut into the mountainside in the distance in the photo above.
+We had a flat hike to Phuyupatamarca, followed by a long steep descent to Intipata. The locations of the outposts reminded me of the [scene from the Lord of the Rings where Gondor calls to Rohan for aid with a sequence of bonfires over the mountains](https://www.youtube.com/watch?v=GDYQ3PJKrT8)... see Intipata cut into the mountainside in the distance in the photo above.
 
 {% include post_image_full_lightbox.html
   filename="20211226-002121-peru-KXL08230.jpg"
@@ -210,8 +213,8 @@ Rodrigo explained that about 80% of those stones are original - paving the Inca 
 
 {% include post_image_full_lightbox.html
    filename="20211226-011337-peru-KXL08257.jpg"
-   title="Intipata peeking through the trees"
-   caption="Intipata peeking through the trees" %}
+   title="Intipata peeks through the trees"
+   caption="Intipata peeks through the trees" %}
 
 {% include post_image_full_lightbox.html
    filename="20211226-022710-peru-KXL08317.jpg"
@@ -240,7 +243,7 @@ After a tasty lunch and a longed-for nap, we went on a short walk to Winay Wayna
 
 Finally came the morning of the fourth day, when we'd reach the highly-anticipated finale: Machu Picchu.
 
-We woke up bright and early - I think it was 4:30, but perhaps earlier. After a quick breakfast we started hiking with the rising sun.
+We woke up bright and early - I think it was 4:30. After a quick breakfast we started hiking with the rising sun.
 
 We climbed the feared staircase known to the guides as the "Gringo Killer" to the Sun Gate to finally, after much ado and excitement, after building up to this moment for twenty-something years, get our first view of Machu Picchu...
 
@@ -249,7 +252,7 @@ We climbed the feared staircase known to the guides as the "Gringo Killer" to th
    title="Our first view of Machu Picchu from the Sun Gate"
    caption="Our first view of Machu Picchu from the Sun Gate" %}
 
-Yeah, the weather didn't exactly cooperate, and we didn't see diddly-squat. But hey, we did not lose heart and continued on in our journey, and by the time we reached Machu Picchu the clouds finally started to burn off, and the payoff was so worth it:
+Yeah, the weather didn't exactly cooperate, and we didn't see diddly-squat. But hey, we did not lose heart and continued on our journey, and by the time we reached Machu Picchu the clouds finally started to burn off, and the payoff was so worth it:
 
 {% include post_image_full_lightbox.html
    filename="20211226-224112-peru-KXL08423-Pano-Edit.jpg"
@@ -280,7 +283,7 @@ That mountain just past the city is Huayna Picchu, and a long set of steep, narr
   title="Machu Picchu from the top of Huayna Picchu"
   caption="Machu Picchu from the top of Huayna Picchu" %}
 
-[Machu Picchu](https://en.wikipedia.org/wiki/Machu_Picchu) was built by the Incas around 1450 as an estate for the emperor Pachacuti, but abandoned about a century later at the time of the Spanish conquest. No Europeans visited the site until the 19th century.
+[Machu Picchu](https://en.wikipedia.org/wiki/Machu_Picchu) was built by the Incas around 1450 as an estate for the emperor Pachacuti, but abandoned about a century later at the time of the Spanish conquest. No Europeans visited the site until the 19th century, as far as is known.
 
 {% include post_image_full_lightbox.html
    filename="20211227-005315-peru-KXL08528.jpg"
