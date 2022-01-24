@@ -301,3 +301,5 @@ That mountain just past the city is Huayna Picchu, and a long set of steep, narr
   filename="20211226-085728-peru-PXL_20211226_135728124.jpg"
   title="Krystof and Stephanie at Machu Picchu"
   caption="We made it!" %}
+
+*[Prints of selected photos are available for purchase here.](https://krystof-litomisky.client-gallery.com/gallery/peru/one)*
