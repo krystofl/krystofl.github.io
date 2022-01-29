@@ -2,7 +2,7 @@
 layout: post
 title: "A SoCal Weekend"
 description: ""
-tags: [Video, Adventure]
+tags: [Video, Adventure, Motorcycles]
 ---
 
 Without doubt, Southern California is a great place to live.
