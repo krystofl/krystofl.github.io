@@ -63,6 +63,7 @@ There are some Inca ruins just above Pisac... but, having just finished [hiking 
 
 The locals were always curious to see us and happy to chat. We saw many herding flocks of sheep to and from pastures on the mountainsides.
 
+<a name="cholita-with-flock" />
 {% include post_image_full_lightbox.html
    filename="20211228-133157-peru-PXL_20211228_183157449.MP.jpg"
    title="Hanging with some locals tending their flock (spot it behind me!)"
