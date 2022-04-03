@@ -7,7 +7,7 @@ banner_image: about-page.jpg
 
 Hi, I’m Krystof - engineer, adventurer, and all-around good guy.
 
-I’m a business leader and software engineer working primarily in intelligent systems that make the world a better place. My most recent job was CEO at [Ecogate](https://www.ecogate.com/).
+I’m a business leader and engineer working in intelligent systems that make the world a better place, currently as Director of Software Engineering at [Wavemaker Labs](https://www.wavemakerlabs.com/) and advisor at [Ecogate](https://www.ecogate.com/), where I was previously CEO.
 
 You can also find me on
 [LinkedIn](https://www.linkedin.com/in/{{ site.linkedin_username }}),
@@ -76,20 +76,21 @@ In 2015, I got the opportunity to join [Ecogate](https://www.ecogate.com/)
 as the company’s CEO.
 Ecogate makes intelligent controls for industrial exhaust systems - our
 systems use only 30% the electricity of traditional systems
-while performing better in every way - for technically-savvy clients such as
-Andersen Windows & Doors, GlaxoSmithKline, Tesla Motors, and the US Navy.
-
-In 2020, Ecogate made the Inc. 5000 list of the fastest-growing private companies in the United States! This is for growth during 2016-2019, and I’m super proud of the team at Ecogate for making it happen.
+while performing better in every way. Our customers are tech-savvy
+manufacturers including Andersen Windows & Doors, GlaxoSmithKline, Tesla Motors,
+and the US Navy.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/J92a8Da8hj0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+In 2020, Ecogate made the Inc. 5000 list of the fastest-growing private companies in the United States! I am super proud of the team at Ecogate for making it happen.
+
+At the end of 2020, I joined [Wavemaker Labs](https://www.wavemakerlabs.com/), where we make robots do useful things like [flip burgers in fast food restaurants](https://misorobotics.com/), [mow lawns](https://www.grazemowing.com/), or [prepare pizza](https://www.piestro.com/). As Director of Software Engineering, I make sure our robots do the right things at the right time. Here's Graze, our autonomous commercial lawn mower:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CpipH2PxH20" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I see engineering as more of a mindset than a job: it’s a way of systematically solving problems by breaking them down and applying a rigorous understanding of how the world works with a generous helping of creativity.
 
 These skills are helpful even in scenarios that don’t at first look like engineering problems, like running a business or breaking out of a locked hotel bathroom ([these things happen](https://krystof.litomisky.com/2019/12/24/trapped/)).
-
-In 2019, I decided that it was time to move on, and gradually handed off my day-to-day responsibilities at Ecogate, though I remain involved in an advisory capacity and otherwise help out as needed.
-
-I also make robots do useful things at [Wavemaker Labs](https://www.wavemakerlabs.com/).
 
 First and foremost, though, I am always thinking about building a better future -
 let me know if you're ready to build something great!
@@ -123,8 +124,7 @@ I remember seeing someone in a fast food restaurant endlessly scrolling
 through Facebook on their phone. It seemed like the strangest thing in the
 world to me.
 
-Here's a selection from the poem *Atavism* by John Myers O'Hara.
-The first stanza is used as the epigraph to Jack London's *The Call of the Wild*:
+The poem *Atavism* by John Myers O'Hara captures this feeling:
 
 >
 Old longings nomadic leap<br/>
@@ -137,12 +137,12 @@ Morbid the inner strife<br/>
 Welcome the animal thrill<br/>
 Lending a zest to life.
 
-With that in mind, remember William Wallace:
-*"Every man dies. Not every man really lives."*
 That zest for life is the difference between living and just passing
 the time until you die.
+In the memorable words of Mel Gibson as William Wallace:
+*"Every man dies. Not every man really lives."*
 
-I think it’s critical to continually push our limits.
+That living - real living - is about always pushing your limits.
 If you do, you will surprise yourself - the limits are almost always way further
 out than you think. If you push out, you will reach them,
 and in persevering expand them. If you don’t push out against them,
@@ -150,8 +150,7 @@ the limits will slowly get tighter and tighter, until they finally suffocate you
 
 Some of the adventurous activities I enjoy are
 skiing and alpine touring, mountain biking, hiking / trekking / backpacking,
-riding motorcycles, martial arts, whitewater rafting, travelling,
-and capturing photos and videos of all of that.
+riding motorcycles, martial arts, whitewater rafting, and anything else that gets the heart pumping:
 
 {% include image_caption.html
    imageurl="https://krystof.litomisky.com/klog-assets/images/pages/about/adventure-collage-900px.jpg"
@@ -164,7 +163,7 @@ Even more generally, as G. K. Chesterton wrote:
 “An inconvenience is only an adventure wrongly considered;<br/>
 an adventure is an inconvenience rightly considered."
 
-And so life is full of adventure - on the road, in love, in business...
+And so life is full of adventure - on the road, in business, in love...
 the whole world is filled with open doors, and all one needs to do is
 keep their eyes open, find a door, and step boldly through.
 
