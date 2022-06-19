@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Understanding Sign Language in Video with Software"
+title: "Understanding Sign Language in Video with AI / Machine Learning"
 description: "Why don't video-calling platforms provide closed-captions for sign language?"
 tags: [Software, Machine Learning]
 ---
