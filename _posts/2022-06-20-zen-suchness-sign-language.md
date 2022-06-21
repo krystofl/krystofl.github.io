@@ -25,7 +25,11 @@ The "solution" of the _koan_ as described above made me think of sign language -
 
 _"But wait Krystof! In that video you're just translating words - that's not suchness!"_
 
-'Tis true, and that's where [classifiers](https://en.wikipedia.org/wiki/Classifier_constructions_in_sign_languages) come in. Classifiers are, put in my imperfect layman's terms, hand shapes and movements that are not based on signs assigned to specific words, but rather on the shapes and movements of the hands in an iconic fashion - i.e. as icons. For example, a horse jumping over a fence may be represented by having the stationary hand be the fence and the moving hand be the horse. See [Wikipedia](https://en.wikipedia.org/wiki/Classifier_constructions_in_sign_languages) for some more information.
+'Tis true, and that's where [classifiers](https://en.wikipedia.org/wiki/Classifier_constructions_in_sign_languages) come in.
+
+<!--more-->
+
+Classifiers are, put in my imperfect layman's terms, hand shapes and movements that are not based on signs assigned to specific words, but rather on the shapes and movements of the hands in an iconic fashion - i.e. as icons. For example, a horse jumping over a fence may be represented by having the stationary hand be the fence and the moving hand be the horse. See [Wikipedia](https://en.wikipedia.org/wiki/Classifier_constructions_in_sign_languages) for some more information.
 
 My wife is deaf, and her ability to capture entities, moods, and actions using classifiers is positively incredible. I remember one time we were hiking in Pinnacles National Park, and we read a plaque about the hunting techniques of Peregrine Falcons. The plaque may have read something like (from [Wikipedia](https://en.wikipedia.org/wiki/Peregrine_falcon#Ecology_and_behaviour)):
 
