@@ -7,14 +7,15 @@ banner_image: about-page.jpg
 
 Hi, I’m Krystof - engineer, adventurer, and all-around good guy.
 
-I’m a business leader and engineer working in intelligent systems that make the world a better place, currently as Director of Software Engineering at [Wavemaker Labs](https://www.wavemakerlabs.com/) and advisor at [Ecogate](https://www.ecogate.com/), where I was previously CEO.
+I’m a business leader and engineer creating robots and intelligent systems that make the world a better place,
+most recently as Director of Software Engineering at [Wavemaker Labs](https://www.wavemakerlabs.com/)
+and advisor at [Ecogate](https://www.ecogate.com/), where I was previously CEO.
 
 You can also find me on
 [LinkedIn](https://www.linkedin.com/in/{{ site.linkedin_username }}),
 [GitHub](https://github.com/{{ site.github_username }}),
-[Instagram](http://instagram.com/{{ site.instagram_username }}),
-[Twitter](https://twitter.com/{{ site.twitter_username }}), or
-[YouTube]({{site.youtube_url}}).
+[YouTube]({{site.youtube_url}}), or
+[Instagram](http://instagram.com/{{ site.instagram_username }}).
 
 
 # Engineer
@@ -84,7 +85,7 @@ and the US Navy.
 
 In 2020, Ecogate made the Inc. 5000 list of the fastest-growing private companies in the United States! I am super proud of the team at Ecogate for making it happen.
 
-At the end of 2020, I joined [Wavemaker Labs](https://www.wavemakerlabs.com/), where we make robots do useful things like [flip burgers in fast food restaurants](https://misorobotics.com/), [mow lawns](https://www.grazemowing.com/), or [prepare pizza](https://www.piestro.com/). As Director of Software Engineering, I make sure our robots do the right things at the right time. Here's Graze, our autonomous commercial lawn mower:
+Also in 2020, I joined [Wavemaker Labs](https://www.wavemakerlabs.com/), where we build robots that do useful things like [mow lawns](https://www.grazemowing.com/) or [make pizza](https://www.piestro.com/). As Director of Software Engineering, I made sure our robots do the right things at the right time. Here's Graze, our autonomous commercial lawn mower:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CpipH2PxH20" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -93,7 +94,7 @@ I see engineering as more of a mindset than a job: it’s a way of systematicall
 These skills are helpful even in scenarios that don’t at first look like engineering problems, like running a business or breaking out of a locked hotel bathroom ([these things happen](https://krystof.litomisky.com/2019/12/24/trapped/)).
 
 First and foremost, though, I am always thinking about building a better future -
-let me know if you're ready to build something great!
+so let me know if you're ready to build something great and think I might be able to help!
 
 
 
@@ -189,24 +190,24 @@ They can be concisely translated as:
 
 Together, these form a solid ethical foundation for one’s life.
 The first one always stood out to me:
-*to seek perfection of character*. In fact, Gichin Funakoshi,
+*to seek perfection of character*. Gichin Funakoshi,
 the founder of Shotokan Karate,
 [wrote that](https://en.wikipedia.org/wiki/Shotokan#Philosophy)
 "The ultimate aim of Karate lies not in victory or defeat,
 but in the perfection of the character of the participant."
 
-The principle is to *seek* perfection of character.
-The implication is that there is no true perfection of character, that true perfection is an unattainable ideal.
-But that does not mean that we should not seek perfection - the act of seeking perfection is valuable in and of itself.
+The principle is to *seek* perfection of character,
+the implication being that there is no true perfection of character; that true perfection is an unattainable ideal.
+But that does not mean that we should not seek it - the act of seeking perfection is valuable in and of itself.
 
 What does it mean to seek perfection of character?
 
 I think it starts with identifying the things that matter - the things you care about. If you don’t know where you’re going, how can you hope to get there?
 
-My favorite tool for making that goal explicit is writing a mission statement as described in Stephen Covey’s [The 7 Habits of Highly Effective People](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People), among others.
+My favorite tool for making that explicit is writing a mission statement as described in Stephen Covey’s [The 7 Habits of Highly Effective People](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People).
 
-So what’s mine? I have a page-long mission statement of guiding principles… and I have decided not to share it. The quest for perfection of character is deeply personal, and my understanding of what perfection looks like continues to evolve as I grow.
+I have a mission statement of guiding principles, but for the time being I have decided not to share it here. The quest for perfection of character is deeply personal, and my understanding of what perfection even looks like continues to evolve as I grow. The internet isn't always a great place for such nuanced journeys.
 
-In any case, words are cheap - it’s actions that ultimately matter. And so the standard that I ask you to hold me accountable to is as ambitious as it is vague: to be an all-around good guy.
+In any case, words are cheap - it’s actions that ultimately matter. And so the standard that I ask you to hold me accountable to is as ambitious as it is vague: to be an all-around good guy. I'll see you out there!
 
 [Contact Krystof]({{site.url}}/contact/)

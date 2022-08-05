@@ -5,11 +5,11 @@ description: Best of The Klog
 banner_image: about-page.jpg
 ---
 
-This page has links to the best posts published on The Klog.
+This page has links to some of the best posts published on The Klog that are intended for a general audience.
 
 [Trapped!](/2019/12/24/trapped/) tells the story of how I found myself in real-life escape room, and how I got out.
 
-I love whitewater rafting, and two of my favorite expeditions were down the [Tatshenshini River in Alaska](/2013/08/20/tatshenshini/)
+I love being in the wilderness, and one of my favorite ways to get out there is whitewater rafting. Two of my favorite expeditions were down the [Tatshenshini River in Alaska](/2013/08/20/tatshenshini/)
 and down the [Colorado River through the Grand Canyon](/2021/11/17/grand-canyon-rafting/).
 On the Tatshenshini we didn't encounter another human being for the entire trip!
 
@@ -17,8 +17,6 @@ On software:
 - [Understanding American Sign Language (ASL) from videos using AI / machine learning](/2021/02/21/ASL-understanding-in-video/)
 - [Contact Managers Suck: The Micelf Whitepaper](/2020/10/05/contact-managers-suck-micelf-whitepaper/)
 - [my mediocre experience with the California DMV, and how it could straightforwardly be done much better using existing technology](/2019/01/24/CA-DMV/)
-
-[G20](/2011/06/10/G20/) is a fictional short story set at the 2009 G20 Summit protests in London, and includes original photos captured at the protests.
 
 Then there are travel posts from around the world, most of which have photos and videos in addition to narratives:
 [Thailand](/2020/02/20/thailand/),
