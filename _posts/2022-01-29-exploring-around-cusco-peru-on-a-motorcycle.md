@@ -2,7 +2,7 @@
 layout: post
 title: Exploring the Mountains Around Cusco, Peru on a Motorcycle
 description: "Exploring the Mountains Around Cusco, Peru on a Motorcycle"
-tags: [Photography, Adventure, Motorcycles]
+tags: [Photography, Adventure, Motorcycles, Travel]
 photos_dir: "2022-01-29-exploring-around-cusco-peru-on-a-motorcycle"
 banner_image: 20211228-125013-peru-PXL_20211228_175013306.jpg
 ---
