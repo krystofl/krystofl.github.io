@@ -24,6 +24,7 @@ Out of these stories, Bahcall extracts rules and guidelines that organizations c
 
 Let's take a look at those rules.
 
+<!--more-->
 
 # 1. Separate the phases
 
@@ -33,8 +34,6 @@ Let's take a look at those rules.
    caption="DALL-E's impression of Loonshots" %}
 
 Organizations need both "franchise" projects and loonshot projects. The movie industry is useful to illustrate this: you know exactly what you're going to get with the next installment of the Fast and Furious franchise. And there's good reason for it - those movies make a lot of money.
-
-<!--more-->
 
 But you also need your loonshots, lest the business grow stale: there will be a time when even the Fast and Furious movies start getting predictable and boring, and something else will take over them. So you need to also try wild new ideas. Some of those will flop... but others will start new franchises that more than make up for the flops.
 
