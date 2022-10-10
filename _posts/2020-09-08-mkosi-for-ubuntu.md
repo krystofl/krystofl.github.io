@@ -132,22 +132,46 @@ For example, here's how to install Docker, using
 
 # Docker Caveats
 
-Docker is great, but getting it to work nicely with mkosi can be tricky. In particular, `mkosi.postinst` runs in a `systemd-nspawn` invocation... and I wasn't able to get the Docker daemon to run in it, which means I wasn't even able to get my containers in the image the traditional way.
+_Thanks to reader MarekLi for contributing to this section!_
 
-**NOTE**: if you figure out a way to get the Docker daemon to run in the `systemd-nspawn` invocation of `mkosi.postinst`, be a pal and let me know, yeah? I'll update this post and everybody wins.
+Docker is great, but getting it to work nicely with mkosi can be tricky. In particular, to use it in `mkosi.postinst`, you have to manually start the `containerd` and `dockerd` deamons like so:
 
-To get around this, I wrote a script (that runs on the machine from which I invoke mkosi) that downloads the needed containers as tarballs and saves them in a folder under `mkosi.extra`, so that they get included in the final image.
+```
+echo -e "\n\nStarting containerd and dockerd...\n"
+
+# Start containerd
+/usr/bin/containerd &
+CONTAINERD_PID=$!
+sleep 2
+
+# Start dockerd
+/usr/bin/dockerd -H unix:///var/run/docker.sock --containerd=/run/containerd/containerd.sock --iptables=false --bridge=none &
+DOCKERD_PID=$!
+sleep 2
+
+# Interact with the docker daemon as needed
+# docker load -i $tarfile etc
+
+
+# Kill dockerd and containerd
+echo -e "\n\nStoping dockerd and containerd...\n"
+kill $DOCKERD_PID
+sleep 2
+kill $CONTAINERD_PID
+```
+
+As an alternative, you could use a script (that runs on the machine from which you invoke mkosi) that downloads the needed containers as tarballs and saves them in a folder under `mkosi.extra`, so that they get included in the final image.
 
 The commands to do that are
 
     docker pull IMAGE:TAG
     docker save -o mkosi.extra/IMAGE.tar IMAGE:TAG
 
-Then, when the image actually boots for the first time, I load the images from the tarballs like so:
+Then, when the image actually boots for the first time, you can load the images from the tarballs like so:
 
     docker load -i IMAGE.tar
 
-One advantage of doing it this way, rather than just having the image pull the containers directly from the internet, is that this process works even if the machine running the image is not connected to the internet.
+One advantage of doing it this way, rather than just having the image pull the containers directly from the internet, is that this process works even if the machine running the image is not connected to the internet, which may indeed be the case for certain IoT applications.
 
 
 
