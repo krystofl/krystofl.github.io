@@ -4,29 +4,29 @@ title: "Nonviolent Communication: Book Notes"
 description: "Krystof's book notes on Marshall B. Rosenberg's Nonviolent Communication: A Language of Life."
 tags: [Books]
 photos_dir: "2022-10-31-greece"
-banner_image: 20220726-022844-honeymoon-KXL09367.jpg
+banner_image: 20220720-125914-honeymoon-PXL_20220720_095914416.jpg
 ---
 
 **Nonviolent Communication: A Language of Life**<br/>
 by Marshall B. Rosenberg<br/>
-[Goodreads](https://www.goodreads.com/book/show/71730.Nonviolent_Communication)
+[Wikipedia](https://en.wikipedia.org/wiki/Nonviolent_Communication) | [Goodreads](https://www.goodreads.com/book/show/71730.Nonviolent_Communication)
 
+For a long time I resisted reading Nonviolent Communication (NVC) because I did not like the title - it seemed to implicitly accused my current communication of being violent, though obviously the author knows nothing about me.
 
-# TODO!!!!
+I suppose ultimately under Marshall B. Rosenberg's (MBR's) definitions much of the verbal communication in which most of us engage regularly is indeed violent - especially that most "violent" of words, "should".
 
-This is my second time reading through it
-put it off for a while because I don't like the title - there seems a judgement implied in it, like I might be about to receive a moralistic judgement of how terribly violent my current communication is. I wasn't ready to deal with that.
-In some sense that does come true; but that that kind of judgement of others is antithetical to MBR's philosophy
-let me just say that I am glad I got over my reservations, and I recommend this book as heartily as I possibly can. 
-it is an ongoing reminder to keep our attention focused on a place where we are more likely to get what we are seeking.
+Nevertheless, let me unequivocally state that I am glad I got over those reservations and read the book, and that I have since bought several more copies of the book and gifted it to others.
+
+It is an ongoing reminder to keep our attention focused on a place where we are more likely to get what we are seeking and help others do the same.
+
+{% include post_image_full_lightbox.html
+   filename="20220726-022844-honeymoon-KXL09367.jpg"
+   title="Athens, the cradle of democracy, where for a brief glimmer words were mightier than violence, at least for a lucky few."
+   caption="Athens, the cradle of democracy, where for a brief glimmer words were mightier than violence, at least for a lucky few." %}
+
 
 
 # Communication That Blocks Compassion
-
-{% include post_image_full_lightbox.html
-   filename="20220721-154340-honeymoon-KXL09168.jpg"
-   title="Retreating from the violence of others to a hermit's life on top of a cliff worked out OK for the monk's who founded Meteora."
-   caption="Retreating from the violence of others to a hermit's life on top of a cliff worked out OK for the monk's who founded Meteora." %}
 
 Before we dive into MBR's Nonviolent Communication process, let's look at what the opposite of that looks like - MBR refers to this as "communication that blocks compassion".
 Labels and judgements are on great example, even implicit ones. When we use them, we become trapped in a world of who is what that is hard to escape. These are a matter of perspective. For example,
@@ -40,6 +40,11 @@ MBR believes that
 I think that is spot on.
 
 <!--more-->
+
+{% include post_image_full_lightbox.html
+   filename="20220721-154340-honeymoon-KXL09168.jpg"
+   title="Retreating from the violence of others to a hermit's life on top of a cliff worked out OK for the monk's who founded Meteora."
+   caption="Retreating from the violence of others to a hermit's life on top of a cliff worked out OK for the monk's who founded Meteora." %}
 
 Perhaps my favorite observation from the book is about communication that denies responsibility:
 
@@ -70,11 +75,6 @@ I think it is no coincidence that some of the most creative and influential entr
 
 # The Nonviolent Communication Process
 
-{% include post_image_full_lightbox.html
-   filename="20220725-092827-honeymoon-PXL_20220725_062827912.MP.jpg"
-   title="Many are those who would climb the Akropolis, the cradle of democracy, a place where for a brief glimmer words were mightier than violence... for a lucky few."
-   caption="Many are those who would climb the Akropolis, the cradle of democracy, a place where for a brief glimmer words were mightier than violence... for a lucky few." %}
-
 Nonviolent Communication has four steps:
    1. Observe what is actually happening in a situation
    2. State how we feel when we observe this action
@@ -87,6 +87,11 @@ Let's dive into the process.
 
 
 ## Observing Without Evaluating
+
+{% include post_image_full_lightbox.html
+   filename="20220725-092827-honeymoon-PXL_20220725_062827912.MP.jpg"
+   title="Many are those who would climb the Akropolis, the cradle of democracy."
+   caption="Many are those who would climb the Akropolis, the cradle of democracy." %}
 
 NVC stresses separating observation from evaluation. This is important because when we mix in evaluation, others are likely to hear criticism and instinctively resist what we are saying. If things get bad, it may become impossible to even agree on facts (writing this made me instantly think of US politics and cable news).
 
