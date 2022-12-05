@@ -2,7 +2,7 @@
 layout: post
 title: Backpacking to Cottonwood Lakes & Mt. Langley
 description: ""
-tags: [Photography]
+tags: [Photography, Adventure]
 photos_dir: "2020-07-06-cottonwood-lakes"
 banner_image: 20200703-065601-cottonwood-lakes-KXL06430.jpg
 ---
