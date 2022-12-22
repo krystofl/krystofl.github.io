@@ -238,13 +238,13 @@ Here's how NVC suggests we deal with anger:
 
 This involves vulnerability, and communicating it in this way requires strength and confidence. But it is precisely this vulnerability which is needed to create empathy and understanding, and hopefully start creating breakthroughs towards a positive resolution.
 
-Speaking of which, I think (this is Krystof rather than MBR now), I think ultimately there are three broad courses of action that can lead to a positive development here:
+Speaking of which, I think (this is Krystof rather than MBR now) ultimately there are three broad courses of action that can lead to a positive development here:
   - change it
   - quit it
   - accept it
 
 Ideally, expressing anger through the NVC process described above has led to a stronger connection which will ultimately allow the situation to be changed such that everyone's needs are met.
-But of course this isn't always trivial; one may take years working on changing a situation, only ultimately to not succeed and decide to either accept or leave it. The key here is the focus on one of these positive courses of action, rather than on griping, complaining, and staying with anger.
+But of course this isn't always trivial; one may take years working on changing a situation, only ultimately to not succeed and decide to either accept or leave it. The key here is the focus on one of these positive courses of action, rather than on complaining or staying with anger.
 
 
 # Final Thoughts
