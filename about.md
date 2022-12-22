@@ -7,15 +7,14 @@ banner_image: about-page.jpg
 
 Hi, I’m Krystof - engineer, adventurer, and all-around good guy.
 
-I’m a business leader and engineer creating robots and intelligent systems that make the world a better place,
-most recently as Director of Software Engineering at [Wavemaker Labs](https://www.wavemakerlabs.com/)
-and advisor at [Ecogate](https://www.ecogate.com/), where I was previously CEO.
+I’m an engineer and leader creating robots and intelligent systems that make the world a better place,
+currently working on [autonomous vehicles at Nvidia](https://developer.nvidia.com/drive) 
+as well as an advisor at [Ecogate](https://www.ecogate.com/), where I was previously CEO.
 
 You can also find me on
 [LinkedIn](https://www.linkedin.com/in/{{ site.linkedin_username }}),
-[GitHub](https://github.com/{{ site.github_username }}),
-[YouTube]({{site.youtube_url}}), or
-[Instagram](http://instagram.com/{{ site.instagram_username }}).
+[GitHub](https://github.com/{{ site.github_username }}), or
+[YouTube]({{site.youtube_url}}).
 
 
 # Engineer
@@ -85,16 +84,20 @@ and the US Navy.
 
 In 2020, Ecogate made the Inc. 5000 list of the fastest-growing private companies in the United States! I am super proud of the team at Ecogate for making it happen.
 
-Also in 2020, I joined [Wavemaker Labs](https://www.wavemakerlabs.com/), where we build robots that do useful things like [mow lawns](https://www.grazemowing.com/) or [make pizza](https://www.piestro.com/). As Director of Software Engineering, I made sure our robots do the right things at the right time. Here's Graze, our autonomous commercial lawn mower:
+I later joined [Wavemaker Labs](https://www.wavemakerlabs.com/), making robots that do useful things like [mow lawns](https://www.grazemowing.com/) or [make pizza](https://www.piestro.com/). As Director of Software Engineering, I made sure our robots do the right things at the right time. Here's Graze, our autonomous commercial lawn mower:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CpipH2PxH20" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/is8h6PqKV9c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+In 2022, I joined Nvidia, working on [DRIVE](https://developer.nvidia.com/drive), the company's end-to-end solution for autonomous vehicles, soon to be deployed by Mercedes-Benz, Jaguar, Land-Rover, and other carmakers. Here's Nvidia CEO Jensen Huang introducing the platform:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LjoxHaDCusY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I see engineering as more of a mindset than a job: it’s a way of systematically solving problems by breaking them down and applying a rigorous understanding of how the world works with a generous helping of creativity.
 
 These skills are helpful even in scenarios that don’t at first look like engineering problems, like running a business or breaking out of a locked hotel bathroom ([these things happen](https://krystof.litomisky.com/2019/12/24/trapped/)).
 
 First and foremost, though, I am always thinking about building a better future -
-so let me know if you're ready to build something great and think I might be able to help!
+so let me know if you're ready to build something great and would like to talk!
 
 
 
