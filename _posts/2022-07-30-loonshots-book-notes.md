@@ -2,7 +2,7 @@
 layout: post
 title: "Loonshots by Safi Bahcall - Book Notes"
 description: "Krystof's notes on Loonshots and nurturing crazy ideas that change the world."
-tags: [Books]
+tags: [Books, Loonshots]
 photos_dir: "2022-07-30-loonshots"
 banner_image: DALL-E-Art-Deco-loonshots-1.png
 ---

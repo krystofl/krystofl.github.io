@@ -2,7 +2,7 @@
 layout: post
 title: "Accelerate: Building and Scaling High-Performing Technology Organizations - Book Notes"
 description: ""
-tags: [Books, Software]
+tags: [Books, Software, Leadership]
 ---
 
 ***Accelerate: Building and Scaling High-Performing Technology Organizations***<br/>

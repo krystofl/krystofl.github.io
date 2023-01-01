@@ -2,7 +2,7 @@
 layout: post
 title: "Extreme Ownership by Jocko Willink and Leif Babin - Book Notes"
 description: "Extreme Ownership by Jocko Willink and Leif Babin - Book Notes"
-tags: [Books]
+tags: [Books, Leadership]
 ---
 ***Extreme Ownership: How U.S. Navy SEALs Lead and Win***<br/>
 by [Jocko Willink](https://en.wikipedia.org/wiki/Jocko_Willink) and Leif Babin<br/>
