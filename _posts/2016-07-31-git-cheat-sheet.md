@@ -166,3 +166,39 @@ Remove a submodule (works most of the time):
 
 If the above doesn't work, see
 [this StackOverflow answer](https://stackoverflow.com/a/1260982).
+
+
+## Squashing Commits
+
+Squashing is helpful to keep the git history clean and manageable. For example, even if during development
+it took several commits on a feature branch to develop and test a new feature, it's nice if once
+that feature is ready to be merged into the production branch it showed up as a single commit.
+
+To do that, you can "squash" multiple commits together.
+
+**IMPORTANT**: don't do this if someone else might be using the commits you'd like to squash.
+If you do, they're gonna have a bad time.
+
+The easiest way to do this is when merging into another branch: `git merge --squash`
+
+If you'd like to do it on the branch you're on, you can do an interactive rebase like so:
+
+1. `git log` to see the commit history
+
+Figure out which commits you'd like to squash, and get the hash of the last commit you want to leave untouched
+in history. Let's call it `<that hash>`.
+
+2. `git rebase -i <that hash>`
+
+That will bring up an editor. Leave `pick` for the commit you want to keep, and put `s` or `squash`
+in front of each commit you want to squash.
+
+Be very careful not to delete any lines - those changes would be lost if you do delete them.
+
+Save and close the editor. A new one will pop up to enter the commit message for the new combination commit.
+Do that.
+
+3. Push your changes.
+
+If you had already pushed these commits to a remote, a subsequent `git push` will be rejected.
+If you are sure that no else could be using these commits, you can `git push -f origin BRANCH_NAME`.
