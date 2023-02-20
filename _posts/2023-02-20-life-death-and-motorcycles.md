@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Life, Death, and Motorcycles
-description: ""
+description: "Why do people, and I specifically, ride motorcycles even though we know it's dangerous? No, it's not ignorance for all of us... people come back even after brushes with death, myself included. Why is that?"
 tags: [Motorcycles, Opinion, Adventure]
 photos_dir: "2023-02-20-life-death-and-motorcycles"
 banner_image: red-mountain-motorcycle-DALL-E.jpg
