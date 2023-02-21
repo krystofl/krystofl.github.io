@@ -124,7 +124,7 @@ Who in their right mind would ride a motorcycle after that?
 
 People do things they love, and that's a good thing. Some do it recklessly; others fully aware of the danger inherent in what they do.
 
-Climbing Mt. Everest carries a risk of 37,932 micromorts per successful ascent. On K2, [four people die for every one who reaches the summit](https://en.wikipedia.org/wiki/K2). Are those who climb it unaware of that? Surely not.
+Climbing Mt. Everest carries a risk of 37,932 micromorts per successful ascent. On K2, [one person dies for every four that reach the summit](https://en.wikipedia.org/wiki/K2). Are those who climb it unaware of that? Surely not.
 
 Are they, then, insane? Arguably so. Who in their right mind would try such a risky thing? In fact, who in their right mind would try something that hadn't been done before? Why risk standing out from the crowd?
 
