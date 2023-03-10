@@ -202,3 +202,25 @@ Do that.
 
 If you had already pushed these commits to a remote, a subsequent `git push` will be rejected.
 If you are sure that no else could be using these commits, you can `git push -f origin BRANCH_NAME`.
+
+
+## Rebase a merge request to top of tree (updating its base branch)
+
+Based on [this post](https://www.drupal.org/docs/develop/git/using-gitlab-to-contribute-to-drupal/rebase-a-merge-request).
+
+Update base branch:
+
+    git fetch origin
+    git checkout BASE_BRANCH_NAME
+    git pull
+
+Return to the issue branch and run the rebase command:
+
+    git checkout ISSUE_BRANCH_NAME
+	git rebase BASE_BRANCH_NAME
+
+If the command works, you are done. If you see error messages in the merge, fix them :)
+
+Push the changes:
+
+    git push -f origin ISSUE_BRANCH_NAME
