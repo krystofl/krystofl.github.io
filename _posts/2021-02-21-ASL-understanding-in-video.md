@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Understanding Sign Language in Video with AI / Machine Learning"
+title: "Understanding Sign Language in Video with AI"
 description: "Why don't video-calling platforms provide closed-captions for sign language?"
-tags: [Software, Machine Learning, Sign Language]
+tags: [Software, AI, Sign Language]
 ---
 
 Google Meet now offers real-time closed captions for speakers, and this is very helpful for deaf users using the platform to communicate with hearing and speaking users. In this Google is ahead of the competition - thanks Google!
