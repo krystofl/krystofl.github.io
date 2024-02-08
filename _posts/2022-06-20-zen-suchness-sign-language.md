@@ -27,9 +27,15 @@ _"But wait Krystof! In that video you're just translating words - that's not suc
 
 'Tis true, and that's where [classifiers](https://en.wikipedia.org/wiki/Classifier_constructions_in_sign_languages) come in.
 
-<!--more-->
-
 Classifiers are, put in my imperfect layman's terms, hand shapes and movements that are not based on signs assigned to specific words, but rather on the shapes and movements of the hands in an iconic fashion - i.e. as icons. For example, a horse jumping over a fence may be represented by having the stationary hand be the fence and the moving hand be the horse. See [Wikipedia](https://en.wikipedia.org/wiki/Classifier_constructions_in_sign_languages) for some more information.
+
+But videos are worth so much more than words, so here's a great example from the one and only Troy Kotsur:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8zju7_IB5R0?si=VoDQ6dVmsliIQ9Fr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+There are no subtitles during the classifier, and yet I bet you know exactly what Troy is talking about.
+
+<!--more-->
 
 My wife is deaf, and her ability to capture entities, moods, and actions using classifiers is positively incredible. I remember one time we were hiking in Pinnacles National Park, and we read a plaque about the hunting techniques of Peregrine Falcons. The plaque may have read something like (from [Wikipedia](https://en.wikipedia.org/wiki/Peregrine_falcon#Ecology_and_behaviour)):
 
@@ -37,8 +43,8 @@ My wife is deaf, and her ability to capture entities, moods, and actions using c
 
 This whole paragraph she was able to express with a classifier in maybe 5-10 seconds, capturing beautifully the patient search, the focused dive, and the frenetic chase, all without words. I saw the focus in the falcon's eyes, the determination to catch its prey, the steady resolve to kill.
 
-It was beautiful, it was art, and it captured the suchness of the act in a way a paragraph of text simply cannot.
+It was beautiful, and it captured the suchness of the act in a way a paragraph of text cannot.
 
-This is not to say that classifiers are able to capture suchness perfectly. Indeed, that seems by definition impossible. But I do believe that sign language classifiers do get us much closer to capturing true suchness than spoken or written languages can, since those operate strictly in the realm of symbols.
+This is not to say that classifiers are able to capture suchness perfectly. Indeed, that seems by definition impossible. But I do believe that sign language classifiers do get us closer to capturing true suchness than spoken or written languages can, since those operate strictly in the realm of symbols.
 
 So next time you want to capture the true nature of something, consider freeing yourself from words and symbols, finding your inner artist, and doing so using a classifier in sign language.
