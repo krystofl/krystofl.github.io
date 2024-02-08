@@ -13,6 +13,10 @@ I love being in the wilderness, and one of my favorite ways to get out there is 
 and down the [Colorado River through the Grand Canyon](/2021/11/17/grand-canyon-rafting/).
 On the Tatshenshini we didn't encounter another human being for the entire trip!
 
+You might enjoy this
+[statistical, philosophical, and personal piece](/2023/02/20/life-death-and-motorcycles/)
+on the zen of motorcycles, and the thin line between life and death that one can find on them.
+
 On software:
 - [Understanding American Sign Language (ASL) from videos using AI / machine learning](/2021/02/21/ASL-understanding-in-video/)
 - [Contact Managers Suck: The Micelf Whitepaper](/2020/10/05/contact-managers-suck-micelf-whitepaper/)
