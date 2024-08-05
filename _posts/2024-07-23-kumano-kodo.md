@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Kumano Kodo
-description: ""
-tags: [Photography]
+description: "Stephanie and I had a wonderful three-day trip along the Nakahechi Route of the Kumano Kodo pilgrimage route from Hongu to Nachisan, with nights in Yunomine Onsen, Koguchi, and Nachisan."
+tags: [Photography, Travel, Adventure]
 photos_dir: "2024-07-23-kumano-kodo"
 banner_image: 20240623-155814-kumano-kodo-PXL_20240623_065814400.jpg
 ---
@@ -16,7 +16,7 @@ We hiked the Kumano Kodo!
    title="Collage from the Kumano Kodo"
    caption="Collage from the Kumano Kodo" %}
 
-Stephanie and I planned a three-day trip along the Nakahechi Route from Hongu to Nachisan, with nights in Yunomine Onsen, Koguchi, and Nachisan.
+Stephanie and I had a wonderful three-day trip along the Nakahechi Route from Hongu to Nachisan, with nights in Yunomine Onsen, Koguchi, and Nachisan.
 
 <!--more-->
 
