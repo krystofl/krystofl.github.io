@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nick Slaughter, Pepa, and Making Friends With Your Fists
-description: ""
+description: "It's the third grade, and it's time to get tough."
 tags: [Stories]
 photos_dir: "2024-09-25-making-friends-with-fists"
 ---
