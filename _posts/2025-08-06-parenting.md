@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reflections on Being a Parent
-description: ""
+description: "Krystof reflects on being a parent and decides that it's actually pretty great."
 tags: [Opinion]
 photos_dir: "2025-08-06-parenting"
 banner_image: baby.jpg
